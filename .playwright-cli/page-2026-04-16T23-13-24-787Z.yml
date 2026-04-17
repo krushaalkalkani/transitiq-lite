@@ -1,0 +1,37 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: TransitIQ Lite
+      - generic [ref=e6]: AI Campus Transit Assistant
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - paragraph [ref=e9]: Florida Atlantic University
+        - heading "Ask a route question from a schedule photo." [level=1] [ref=e10]
+        - paragraph [ref=e11]: Upload a shuttle flyer, route map, or screenshot and get a direct answer grounded in FAU shuttle context.
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Transit document" [level=2] [ref=e15]
+            - paragraph [ref=e16]: Upload a schedule photo, route map, or campus shuttle screenshot.
+          - button "+ Drop an image here or choose a file On mobile, your camera can capture a shuttle sign or printed schedule." [ref=e18] [cursor=pointer]:
+            - generic [ref=e19]: +
+            - generic [ref=e20]: Drop an image here or choose a file
+            - generic [ref=e21]: On mobile, your camera can capture a shuttle sign or printed schedule.
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - text: Question
+            - paragraph [ref=e24]: Ask about service days, stop order, route names, or operating hours.
+          - textbox "Question" [ref=e25]:
+            - /placeholder: e.g. Does the Blue Route run on Sundays?
+        - generic [ref=e26]:
+          - heading "Sample shuttle questions" [level=2] [ref=e27]
+          - generic [ref=e28]:
+            - img "Sample FAU shuttle route sheet" [ref=e29]
+            - generic [ref=e30]:
+              - button "Does the Blue Route run on Sundays?" [ref=e31] [cursor=pointer]
+              - button "Which shuttle stops at the Library?" [ref=e32] [cursor=pointer]
+              - button "What time does the Green Route stop running?" [ref=e33] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Analyze document" [ref=e35] [cursor=pointer]
+          - paragraph [ref=e36]: The answer includes extracted details and any assumptions.
+  - alert [ref=e37]

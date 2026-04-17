@@ -1,0 +1,84 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e8]:
+          - img [ref=e9]
+          - text: Powered by GPT-4o
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - text: Transit Document
+            - generic [ref=e21]:
+              - generic [ref=e76]:
+                - generic [ref=e77]:
+                  - img "Uploaded transit document preview" [ref=e78]
+                  - button "Change" [ref=e79] [cursor=pointer]
+                - generic [ref=e80]:
+                  - paragraph [ref=e81]: fau-transit-sample.png
+                  - button "Remove image" [ref=e82] [cursor=pointer]
+              - generic [ref=e31]:
+                - generic [ref=e32]:
+                  - img [ref=e33]
+                  - generic [ref=e35]: Your Question
+                - textbox "Your Question" [ref=e36]:
+                  - /placeholder: What would you like to know about this route?
+              - button "Analyze" [ref=e37] [cursor=pointer]:
+                - text: Analyze
+                - img [ref=e90]
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: Try a sample
+            - generic [ref=e42]:
+              - button "Does the Blue Route run on Sundays?" [ref=e43] [cursor=pointer]
+              - button "Which shuttle stops at the Library?" [ref=e44] [cursor=pointer]
+              - button "What time does the Green Route stop running?" [ref=e45] [cursor=pointer]
+        - complementary [ref=e46]:
+          - generic [ref=e190]:
+            - img [ref=e192]
+            - paragraph [ref=e195]: Your answer will appear here
+            - paragraph [ref=e196]: Upload a transit document and ask a question
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - img [ref=e138]
+              - heading "Recent Questions" [level=2] [ref=e141]
+            - group [ref=e143]:
+              - generic "Does the Blue Route run on Sundays?" [ref=e144] [cursor=pointer]:
+                - generic [ref=e145]: Does the Blue Route run on Sundays?
+                - img [ref=e147]
+              - generic [ref=e149]:
+                - generic [ref=e150]:
+                  - generic [ref=e151]:
+                    - img [ref=e152]
+                    - heading "Direct Answer" [level=4] [ref=e155]
+                  - paragraph [ref=e156]: No. The Blue Route runs Monday through Saturday from 7AM to 10PM.
+                - generic [ref=e157]:
+                  - generic [ref=e158]:
+                    - img [ref=e159]
+                    - heading "Extracted Info" [level=4] [ref=e162]
+                  - generic [ref=e164]:
+                    - generic [ref=e165]: Blue Route
+                    - generic [ref=e166]: Mon-Sat
+                    - generic [ref=e167]: 7AM-10PM
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - img [ref=e170]
+                    - heading "Explanation" [level=4] [ref=e172]
+                  - paragraph [ref=e174]: The uploaded route sheet lists the Blue Route service days as Monday through Saturday, so Sunday service is not included.
+                - generic [ref=e175]:
+                  - generic [ref=e176]:
+                    - img [ref=e177]
+                    - heading "Assumptions" [level=4] [ref=e179]
+                  - paragraph [ref=e181]: Assumes the uploaded schedule is current and applies to regular campus service.
+                - generic [ref=e182]:
+                  - generic [ref=e183]:
+                    - img [ref=e184]
+                    - heading "Suggested Action" [level=4] [ref=e187]
+                  - paragraph [ref=e189]: Use the Green Route for Sunday campus transit coverage.
+  - alert [ref=e54]

@@ -1,0 +1,86 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e9]: FAU → Owl Express
+        - generic [ref=e11]:
+          - img [ref=e12]
+          - text: OpenAI
+    - main [ref=e15]:
+      - complementary [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - generic:
+                - img
+              - combobox "Search your university..." [ref=e20]
+            - generic [ref=e21]:
+              - generic [ref=e22]:
+                - paragraph [ref=e23]: Florida Atlantic University
+                - paragraph [ref=e25]: Owl Express
+              - button "Clear selected university" [ref=e26] [cursor=pointer]:
+                - img [ref=e27]
+          - generic [ref=e30]:
+            - text: "Transit link:"
+            - link "Owl Express" [ref=e31] [cursor=pointer]:
+              - /url: https://www.fau.edu/parking/bocacampusshuttle/
+            - button "edit" [ref=e32] [cursor=pointer]
+          - generic [ref=e33]:
+            - generic [ref=e35]:
+              - heading "Route info" [level=2] [ref=e36]
+              - paragraph [ref=e37]: 3 routes available
+            - generic [ref=e38]:
+              - article [ref=e39]:
+                - generic [ref=e40]:
+                  - heading "Boca Campus Shuttle" [level=3] [ref=e41]
+                  - generic [ref=e42]:
+                    - generic [ref=e43]: Mon-Fri
+                    - generic [ref=e44]: 7:00 AM - 10:00 PM
+                - paragraph [ref=e45]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+              - article [ref=e46]:
+                - generic [ref=e47]:
+                  - heading "Boca to Jupiter Shuttle" [level=3] [ref=e48]
+                  - generic [ref=e49]:
+                    - generic [ref=e50]: Mon-Fri
+                    - generic [ref=e51]: 7:30 AM - 9:00 PM
+                - paragraph [ref=e52]: Administration Building → Student Union → S.E. Wimberly Library → +3 more
+              - article [ref=e53]:
+                - generic [ref=e54]:
+                  - heading "Palm Tran Route 94" [level=3] [ref=e55]
+                  - generic [ref=e56]:
+                    - generic [ref=e57]: Mon-Sun
+                    - generic [ref=e58]: 8:00 AM - 11:00 PM
+                - paragraph [ref=e59]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+            - link "View full transit info →" [ref=e60] [cursor=pointer]:
+              - /url: https://www.fau.edu/parking/bocacampusshuttle/
+      - generic [ref=e61]:
+        - generic [ref=e90]:
+          - generic [ref=e92]: Does the Boca Campus Shuttle run on weekends?
+          - article [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - img [ref=e97]
+                - text: TransitIQ Lite
+              - generic [ref=e100]: 7:26 AM
+            - paragraph [ref=e102]: The Boca Campus Shuttle is listed as operating Monday through Friday, so weekend service is not shown in the current FAU route data.
+            - generic [ref=e103]:
+              - button "Extracted Info" [ref=e104] [cursor=pointer]
+              - button "Explanation" [ref=e105] [cursor=pointer]
+              - button "Assumptions" [ref=e106] [cursor=pointer]
+              - button "Next Steps" [ref=e107] [cursor=pointer]
+            - generic [ref=e108]:
+              - heading [level=3]
+            - generic [ref=e109]:
+              - generic [ref=e110]: Florida Atlantic University data
+              - generic [ref=e111]: Transit page fetched
+        - generic [ref=e82]:
+          - button "Attach photos" [ref=e83] [cursor=pointer]:
+            - img [ref=e84]
+          - textbox "Ask about routes, schedules, stops..." [ref=e85]: Does the Boca Campus Shuttle run on weekends?
+          - button "Send question" [ref=e86] [cursor=pointer]:
+            - img [ref=e112]
+  - alert [ref=e89]

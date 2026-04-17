@@ -1,0 +1,206 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "Back to home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - text: Back to home
+      - generic [ref=e9]:
+        - heading "List My University" [level=1] [ref=e10]
+        - paragraph [ref=e11]: Don't see your university? Submit a request and we'll add it.
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - text: University Name
+            - textbox "University Name" [ref=e19]: Test University
+          - generic [ref=e20]:
+            - text: City
+            - textbox "City" [active] [ref=e21]: Boca Raton
+          - generic [ref=e22]:
+            - text: State
+            - combobox "State" [ref=e23]:
+              - option "Select a state" [disabled]
+              - option "Alabama"
+              - option "Alaska"
+              - option "Arizona"
+              - option "Arkansas"
+              - option "California"
+              - option "Colorado"
+              - option "Connecticut"
+              - option "Delaware"
+              - option "Florida" [selected]
+              - option "Georgia"
+              - option "Hawaii"
+              - option "Idaho"
+              - option "Illinois"
+              - option "Indiana"
+              - option "Iowa"
+              - option "Kansas"
+              - option "Kentucky"
+              - option "Louisiana"
+              - option "Maine"
+              - option "Maryland"
+              - option "Massachusetts"
+              - option "Michigan"
+              - option "Minnesota"
+              - option "Mississippi"
+              - option "Missouri"
+              - option "Montana"
+              - option "Nebraska"
+              - option "Nevada"
+              - option "New Hampshire"
+              - option "New Jersey"
+              - option "New Mexico"
+              - option "New York"
+              - option "North Carolina"
+              - option "North Dakota"
+              - option "Ohio"
+              - option "Oklahoma"
+              - option "Oregon"
+              - option "Pennsylvania"
+              - option "Rhode Island"
+              - option "South Carolina"
+              - option "South Dakota"
+              - option "Tennessee"
+              - option "Texas"
+              - option "Utah"
+              - option "Vermont"
+              - option "Virginia"
+              - option "Washington"
+              - option "West Virginia"
+              - option "Wisconsin"
+              - option "Wyoming"
+          - generic [ref=e24]:
+            - text: Transit System Name
+            - textbox "Transit System Name" [ref=e25]:
+              - /placeholder: e.g. BruinBus, CrimsonRide
+          - generic [ref=e26]:
+            - text: Transit Website URL
+            - textbox "Transit Website URL" [ref=e27]:
+              - /placeholder: https://...
+          - generic [ref=e28]:
+            - text: Your Email
+            - textbox "Your Email" [ref=e29]:
+              - /placeholder: your.email@university.edu
+          - generic [ref=e30]:
+            - text: Additional Notes
+            - textbox "Additional Notes" [ref=e31]:
+              - /placeholder: Anything else we should know?
+        - button "Submit request" [ref=e32] [cursor=pointer]
+      - paragraph [ref=e33]: Currently supporting 50+ universities across the United States
+    - generic [ref=e36]:
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: FAU
+          - generic [ref=e41]: •
+        - generic [ref=e42]:
+          - generic [ref=e43]: UCLA
+          - generic [ref=e44]: •
+        - generic [ref=e45]:
+          - generic [ref=e46]: MIT
+          - generic [ref=e47]: •
+        - generic [ref=e48]:
+          - generic [ref=e49]: Stanford
+          - generic [ref=e50]: •
+        - generic [ref=e51]:
+          - generic [ref=e52]: Harvard
+          - generic [ref=e53]: •
+        - generic [ref=e54]:
+          - generic [ref=e55]: Ohio State
+          - generic [ref=e56]: •
+        - generic [ref=e57]:
+          - generic [ref=e58]: Michigan
+          - generic [ref=e59]: •
+        - generic [ref=e60]:
+          - generic [ref=e61]: Berkeley
+          - generic [ref=e62]: •
+        - generic [ref=e63]:
+          - generic [ref=e64]: Georgia Tech
+          - generic [ref=e65]: •
+        - generic [ref=e66]:
+          - generic [ref=e67]: NYU
+          - generic [ref=e68]: •
+        - generic [ref=e69]:
+          - generic [ref=e70]: Columbia
+          - generic [ref=e71]: •
+        - generic [ref=e72]:
+          - generic [ref=e73]: UT Austin
+          - generic [ref=e74]: •
+        - generic [ref=e75]:
+          - generic [ref=e76]: Purdue
+          - generic [ref=e77]: •
+        - generic [ref=e78]:
+          - generic [ref=e79]: Duke
+          - generic [ref=e80]: •
+        - generic [ref=e81]:
+          - generic [ref=e82]: Georgetown
+          - generic [ref=e83]: •
+        - generic [ref=e84]:
+          - generic [ref=e85]: FAU
+          - generic [ref=e86]: •
+        - generic [ref=e87]:
+          - generic [ref=e88]: UCLA
+          - generic [ref=e89]: •
+        - generic [ref=e90]:
+          - generic [ref=e91]: MIT
+          - generic [ref=e92]: •
+        - generic [ref=e93]:
+          - generic [ref=e94]: Stanford
+          - generic [ref=e95]: •
+        - generic [ref=e96]:
+          - generic [ref=e97]: Harvard
+          - generic [ref=e98]: •
+        - generic [ref=e99]:
+          - generic [ref=e100]: Ohio State
+          - generic [ref=e101]: •
+        - generic [ref=e102]:
+          - generic [ref=e103]: Michigan
+          - generic [ref=e104]: •
+        - generic [ref=e105]:
+          - generic [ref=e106]: Berkeley
+          - generic [ref=e107]: •
+        - generic [ref=e108]:
+          - generic [ref=e109]: Georgia Tech
+          - generic [ref=e110]: •
+        - generic [ref=e111]:
+          - generic [ref=e112]: NYU
+          - generic [ref=e113]: •
+        - generic [ref=e114]:
+          - generic [ref=e115]: Columbia
+          - generic [ref=e116]: •
+        - generic [ref=e117]:
+          - generic [ref=e118]: UT Austin
+          - generic [ref=e119]: •
+        - generic [ref=e120]:
+          - generic [ref=e121]: Purdue
+          - generic [ref=e122]: •
+        - generic [ref=e123]:
+          - generic [ref=e124]: Duke
+          - generic [ref=e125]: •
+        - generic [ref=e126]:
+          - generic [ref=e127]: Georgetown
+          - generic [ref=e128]: •
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - paragraph [ref=e131]: TransitIQ Lite
+          - paragraph [ref=e132]: Built by Krushal Kalkani
+        - generic [ref=e133]: Codex Creator Challenge 2026
+        - generic [ref=e134]: Powered by OpenAI GPT-4o
+      - navigation "Footer navigation" [ref=e135]:
+        - generic [ref=e136]:
+          - link "Try TransitIQ Lite" [ref=e137] [cursor=pointer]:
+            - /url: /app
+          - link "List My University" [ref=e138] [cursor=pointer]:
+            - /url: /list-university
+          - link "About" [ref=e139] [cursor=pointer]:
+            - /url: /about
+        - generic [ref=e140]:
+          - link "Privacy Policy" [ref=e141] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms of Service" [ref=e142] [cursor=pointer]:
+            - /url: /terms
+          - link "Contact" [ref=e143] [cursor=pointer]:
+            - /url: /contact
+      - generic [ref=e144]: © 2026 Krushal Kalkani. All rights reserved.
+  - alert [ref=e145]

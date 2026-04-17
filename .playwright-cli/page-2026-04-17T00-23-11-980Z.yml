@@ -1,0 +1,84 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e8]:
+          - img [ref=e9]
+          - text: Powered by GPT-4o
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - text: Transit Document
+            - generic [ref=e21]:
+              - generic [ref=e76]:
+                - generic [ref=e77]:
+                  - img "Uploaded transit document preview" [ref=e78]
+                  - button "Change" [ref=e79] [cursor=pointer]
+                - generic [ref=e80]:
+                  - paragraph [ref=e81]: fau-transit-sample.png
+                  - button "Remove image" [ref=e82] [cursor=pointer]
+              - generic [ref=e31]:
+                - generic [ref=e32]:
+                  - img [ref=e33]
+                  - generic [ref=e35]: Your Question
+                - textbox "Your Question" [ref=e36]:
+                  - /placeholder: What would you like to know about this route?
+                  - text: Does the Blue Route run on Sundays?
+              - button "Analyze" [ref=e37] [cursor=pointer]:
+                - text: Analyze
+                - img [ref=e90]
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: Try a sample
+            - generic [ref=e42]:
+              - button "Does the Blue Route run on Sundays?" [ref=e43] [cursor=pointer]
+              - button "Which shuttle stops at the Library?" [ref=e44] [cursor=pointer]
+              - button "What time does the Green Route stop running?" [ref=e45] [cursor=pointer]
+        - complementary [ref=e46]:
+          - generic [ref=e92]:
+            - article [ref=e93]:
+              - generic [ref=e94]:
+                - generic [ref=e95]:
+                  - img [ref=e96]
+                  - heading "Direct Answer" [level=2] [ref=e99]
+                - paragraph [ref=e100]: No. The Blue Route runs Monday through Saturday from 7AM to 10PM.
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - img [ref=e103]
+                  - heading "Extracted Info" [level=3] [ref=e106]
+                - generic [ref=e108]:
+                  - generic [ref=e109]: Blue Route
+                  - generic [ref=e110]: Mon-Sat
+                  - generic [ref=e111]: 7AM-10PM
+              - generic [ref=e112]:
+                - generic [ref=e113]:
+                  - img [ref=e114]
+                  - heading "Explanation" [level=3] [ref=e116]
+                - paragraph [ref=e118]: The uploaded route sheet lists the Blue Route service days as Monday through Saturday, so Sunday service is not included.
+              - generic [ref=e119]:
+                - generic [ref=e120]:
+                  - img [ref=e121]
+                  - heading "Assumptions" [level=3] [ref=e123]
+                - paragraph [ref=e125]: Assumes the uploaded schedule is current and applies to regular campus service.
+              - generic [ref=e126]:
+                - generic [ref=e127]:
+                  - img [ref=e128]
+                  - heading "Suggested Action" [level=3] [ref=e131]
+                - paragraph [ref=e133]: Use the Green Route for Sunday campus transit coverage.
+              - generic [ref=e134]: AI-generated answer • Based on uploaded document
+            - button "Ask another question" [ref=e135] [cursor=pointer]
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - img [ref=e138]
+              - heading "Recent Questions" [level=2] [ref=e141]
+            - group [ref=e143]:
+              - generic "Does the Blue Route run on Sundays?" [ref=e144] [cursor=pointer]:
+                - generic [ref=e145]: Does the Blue Route run on Sundays?
+                - img [ref=e147]
+  - alert [ref=e54]

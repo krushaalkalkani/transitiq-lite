@@ -1,0 +1,126 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e10]: FAU → Owl Express
+        - generic [ref=e12]:
+          - img [ref=e13]
+          - text: Powered by GPT-4o
+    - main [ref=e16]:
+      - complementary [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]:
+              - img [ref=e23]
+              - generic [ref=e26]: University
+            - combobox "University" [ref=e28]
+            - generic [ref=e29]:
+              - generic [ref=e30]:
+                - paragraph [ref=e31]: Florida Atlantic University
+                - paragraph [ref=e32]: Owl Express
+              - button "Clear selected university" [ref=e33] [cursor=pointer]:
+                - img [ref=e34]
+              - link "https://www.fau.edu/parking/bocacampusshuttle/" [ref=e37] [cursor=pointer]:
+                - /url: https://www.fau.edu/parking/bocacampusshuttle/
+                - img [ref=e38]
+                - generic [ref=e41]: https://www.fau.edu/parking/bocacampusshuttle/
+                - img [ref=e42]
+          - generic [ref=e47]:
+            - generic [ref=e48]:
+              - img [ref=e50]
+              - generic [ref=e53]: Transit page link (optional)
+            - generic [ref=e54]:
+              - textbox "Transit page link (optional)" [ref=e55]:
+                - /placeholder: Paste your university's transit page URL
+                - text: https://www.fau.edu/parking/bocacampusshuttle/
+              - img [ref=e57]
+            - paragraph [ref=e59]: We will fetch route info from this page to improve your answer
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - img [ref=e64]
+              - text: Transit Photos (optional)
+            - button "Add photo" [ref=e69] [cursor=pointer]:
+              - img [ref=e70]
+              - generic [ref=e71]: Add photo
+            - paragraph [ref=e72]: Photos optional — university data and transit link will be used
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - generic [ref=e76]:
+                - img [ref=e78]
+                - generic [ref=e80]: Your Question
+              - textbox "Your Question" [ref=e81]:
+                - /placeholder: What would you like to know about this route?
+            - generic [ref=e82]:
+              - paragraph [ref=e83]: Try a sample
+              - generic [ref=e84]:
+                - button "Does the Boca Campus Shuttle run on weekends?" [ref=e85] [cursor=pointer]
+                - button "Which stops does the Boca to Jupiter Shuttle serve?" [ref=e86] [cursor=pointer]
+                - button "What are the operating hours for Owl Express?" [ref=e87] [cursor=pointer]
+          - button "Analyze" [disabled] [ref=e88]:
+            - img [ref=e89]
+            - text: Analyze
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - img [ref=e98]
+              - generic [ref=e101]:
+                - heading "Route Map" [level=2] [ref=e102]
+                - paragraph [ref=e103]: Owl Express
+            - generic [ref=e104]: 3 routes
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - generic [ref=e108]:
+                  - paragraph [ref=e109]: Boca Campus Shuttle
+                  - paragraph [ref=e110]: Blue route layer
+                - generic [ref=e111]: Days / hours vary
+              - generic [ref=e114]:
+                - generic [ref=e117]: Stop 1A
+                - generic [ref=e120]: Boca Campus
+                - generic [ref=e123]: Stop 1C
+            - generic [ref=e124]:
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - paragraph [ref=e127]: Boca to Jupiter Shuttle
+                  - paragraph [ref=e128]: Red route layer
+                - generic [ref=e129]: Days / hours vary
+              - generic [ref=e132]:
+                - generic [ref=e135]: Boca
+                - generic [ref=e138]: Campus Core
+                - generic [ref=e141]: Jupiter Shuttle
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - paragraph [ref=e145]: Palm Tran Route 94
+                  - paragraph [ref=e146]: Green route layer
+                - generic [ref=e147]: Days / hours vary
+              - generic [ref=e150]:
+                - generic [ref=e153]: Stop 3A
+                - generic [ref=e156]: Palm Tran 94
+                - generic [ref=e159]: Stop 3C
+          - generic [ref=e160]:
+            - generic [ref=e161]: Boca Campus Shuttle
+            - generic [ref=e163]: Boca to Jupiter Shuttle
+            - generic [ref=e165]: Palm Tran Route 94
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - img [ref=e171]
+            - generic [ref=e174]:
+              - heading "Florida Atlantic University" [level=3] [ref=e175]
+              - paragraph [ref=e176]: Boca Raton, FL • Owl Express
+              - paragraph [ref=e177]: 3 campus transit routes indexed
+          - link "Transit URL" [ref=e178] [cursor=pointer]:
+            - /url: https://www.fau.edu/parking/bocacampusshuttle/
+            - text: Transit URL
+            - img [ref=e179]
+      - complementary [ref=e183]:
+        - generic [ref=e184]:
+          - img [ref=e186]
+          - paragraph [ref=e189]: Your answer will appear here
+          - paragraph [ref=e190]: Ready to answer questions about Florida Atlantic University transit.
+  - alert [ref=e195]

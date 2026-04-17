@@ -1,0 +1,105 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - text: TransitIQ Lite
+      - generic [ref=e8]: FAU → Owl Express
+      - generic [ref=e10]:
+        - img [ref=e11]
+        - text: OpenAI
+  - main [ref=e14]:
+    - complementary [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - img [ref=e20]
+            - combobox "Search your university..." [ref=e23]
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - paragraph [ref=e26]: Florida Atlantic University
+              - paragraph [ref=e27]: Owl Express
+            - button "Clear selected university" [ref=e28]
+        - generic [ref=e31]:
+          - text: "Transit link:"
+          - link "Owl Express" [ref=e32] [cursor=pointer]:
+            - /url: https://www.fau.edu/parking/bocacampusshuttle/
+          - button "edit" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - heading "Route info" [level=2] [ref=e37]
+            - paragraph [ref=e38]: 3 routes available
+          - generic [ref=e39]:
+            - article [ref=e40]:
+              - generic [ref=e41]:
+                - heading "Boca Campus Shuttle" [level=3] [ref=e42]
+                - generic [ref=e43]: Mon-Fri7:00 AM - 10:00 PM
+              - paragraph [ref=e44]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+            - article [ref=e45]:
+              - generic [ref=e46]:
+                - heading "Boca to Jupiter Shuttle" [level=3] [ref=e47]
+                - generic [ref=e48]: Mon-Fri7:30 AM - 9:00 PM
+              - paragraph [ref=e49]: Administration Building → Student Union → S.E. Wimberly Library → +3 more
+            - article [ref=e50]:
+              - generic [ref=e51]:
+                - heading "Palm Tran Route 94" [level=3] [ref=e52]
+                - generic [ref=e53]: Mon-Sun8:00 AM - 11:00 PM
+              - paragraph [ref=e54]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+          - link "View full transit info →" [ref=e55] [cursor=pointer]:
+            - /url: https://www.fau.edu/parking/bocacampusshuttle/
+    - generic [ref=e56]:
+      - group [ref=e57]:
+        - generic "Routes and sources↓" [ref=e58]
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - img [ref=e64]
+              - combobox "Search your university..." [ref=e67]
+            - generic [ref=e68]:
+              - generic [ref=e69]:
+                - paragraph [ref=e70]: Florida Atlantic University
+                - paragraph [ref=e71]: Owl Express
+              - button "Clear selected university" [ref=e72]
+          - generic [ref=e75]:
+            - text: "Transit link:"
+            - link "Owl Express" [ref=e76] [cursor=pointer]:
+              - /url: https://www.fau.edu/parking/bocacampusshuttle/
+            - button "edit" [ref=e77]
+          - generic [ref=e78]:
+            - generic [ref=e80]:
+              - heading "Route info" [level=2] [ref=e81]
+              - paragraph [ref=e82]: 3 routes available
+            - generic [ref=e83]:
+              - article [ref=e84]:
+                - generic [ref=e85]:
+                  - heading "Boca Campus Shuttle" [level=3] [ref=e86]
+                  - generic [ref=e87]: Mon-Fri7:00 AM - 10:00 PM
+                - paragraph [ref=e88]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+              - article [ref=e89]:
+                - generic [ref=e90]:
+                  - heading "Boca to Jupiter Shuttle" [level=3] [ref=e91]
+                  - generic [ref=e92]: Mon-Fri7:30 AM - 9:00 PM
+                - paragraph [ref=e93]: Administration Building → Student Union → S.E. Wimberly Library → +3 more
+              - article [ref=e94]:
+                - generic [ref=e95]:
+                  - heading "Palm Tran Route 94" [level=3] [ref=e96]
+                  - generic [ref=e97]: Mon-Sun8:00 AM - 11:00 PM
+                - paragraph [ref=e98]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+            - link "View full transit info →" [ref=e99] [cursor=pointer]:
+              - /url: https://www.fau.edu/parking/bocacampusshuttle/
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: Florida Atlantic University
+        - paragraph [ref=e104]: Ask me anything about Owl Express
+        - generic [ref=e105]:
+          - button "Does the Boca Campus Shuttle run on weekends?→" [ref=e106]:
+            - generic [ref=e107]: Does the Boca Campus Shuttle run on weekends?→
+          - button "Which stops does the Boca to Jupiter Shuttle serve?→" [ref=e108]:
+            - generic [ref=e109]: Which stops does the Boca to Jupiter Shuttle serve?→
+          - button "What are the operating hours for Owl Express?→" [ref=e110]:
+            - generic [ref=e111]: What are the operating hours for Owl Express?→
+      - generic [ref=e114]:
+        - button "Choose File" [ref=e115]
+        - button "Attach photos" [ref=e116]
+        - textbox "Ask about routes, schedules, stops..." [ref=e117]
+        - button "Send question" [disabled] [ref=e118]

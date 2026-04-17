@@ -1,0 +1,88 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - link "Try it now" [ref=e6] [cursor=pointer]:
+          - /url: /app
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - paragraph [ref=e10]: Blue Route
+        - paragraph [ref=e11]: Housing → Library
+      - generic [ref=e12]:
+        - paragraph [ref=e13]: Green Route
+        - paragraph [ref=e14]: Mon-Sun • 8AM-11PM
+      - generic [ref=e15]:
+        - paragraph [ref=e16]: Red Route
+        - paragraph [ref=e17]: Engineering → Stadium
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: AI Campus Transit Assistant
+          - heading "Your Campus Shuttle, Explained by AI." [level=1] [ref=e21]
+          - paragraph [ref=e22]: Upload any shuttle schedule, route map, or transit notice. Ask a question in plain English. Get a clear, structured answer instantly.
+          - link "Try TransitIQ Lite →" [ref=e23] [cursor=pointer]:
+            - /url: /app
+        - generic [ref=e26]:
+          - generic [ref=e32]: transitiq-lite.vercel.app
+          - generic [ref=e33]:
+            - img "Sample FAU shuttle route sheet" [ref=e35]
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - paragraph [ref=e38]: Question
+                - paragraph [ref=e39]: Does the Blue Route run on Sundays?
+              - generic [ref=e40]:
+                - paragraph [ref=e41]: Direct Answer
+                - paragraph [ref=e42]: No. The Blue Route runs Monday through Saturday from 7AM to 10PM.
+              - generic [ref=e43]:
+                - generic [ref=e44]:
+                  - paragraph [ref=e45]: Extracted Info
+                  - paragraph [ref=e46]: Mon-Sat • 7AM-10PM
+                - generic [ref=e47]:
+                  - paragraph [ref=e48]: Suggested Action
+                  - paragraph [ref=e49]: Check Green Route
+    - generic [ref=e51]:
+      - heading "Why TransitIQ Lite?" [level=2] [ref=e53]
+      - generic [ref=e54]:
+        - article [ref=e55]:
+          - img [ref=e57]
+          - heading "Snap & Ask" [level=3] [ref=e60]
+          - paragraph [ref=e61]: Take a photo of any shuttle sign, printed schedule, or route map. No manual data entry needed.
+        - article [ref=e62]:
+          - img [ref=e64]
+          - heading "AI-Powered Answers" [level=3] [ref=e69]
+          - paragraph [ref=e70]: GPT-4o reads your image, understands the transit context, and answers your question with structured detail.
+        - article [ref=e71]:
+          - img [ref=e73]
+          - heading "Built for Students" [level=3] [ref=e76]
+          - paragraph [ref=e77]: Designed for FAU campus transit. Get route info, service hours, and stop details in seconds.
+    - generic [ref=e79]:
+      - heading "How It Works" [level=2] [ref=e81]
+      - generic [ref=e82]:
+        - article [ref=e84]:
+          - generic [ref=e85]: "01"
+          - generic [ref=e86]:
+            - heading "Upload" [level=3] [ref=e87]
+            - paragraph [ref=e88]: Take a photo or upload a shuttle schedule, route map, or transit notice.
+        - article [ref=e89]:
+          - generic [ref=e90]: "02"
+          - generic [ref=e91]:
+            - heading "Ask" [level=3] [ref=e92]
+            - paragraph [ref=e93]: Type your question in plain English. Like talking to a friend who knows every route.
+        - article [ref=e94]:
+          - generic [ref=e95]: "03"
+          - generic [ref=e96]:
+            - heading "Get Your Answer" [level=3] [ref=e97]
+            - paragraph [ref=e98]: Receive a structured response with the direct answer, extracted details, and next steps.
+    - generic [ref=e100]:
+      - heading "Ready to try it?" [level=2] [ref=e101]
+      - paragraph [ref=e102]: No sign-up needed. Upload a photo and ask your first question.
+      - link "Launch TransitIQ Lite →" [ref=e103] [cursor=pointer]:
+        - /url: /app
+    - generic [ref=e105]:
+      - generic [ref=e106]:
+        - paragraph [ref=e107]: TransitIQ Lite
+        - paragraph [ref=e108]: Built by Krushal Kalkani
+      - generic [ref=e109]: Codex Creator Challenge 2026
+      - generic [ref=e110]: Powered by OpenAI GPT-4o
+  - alert [ref=e111]

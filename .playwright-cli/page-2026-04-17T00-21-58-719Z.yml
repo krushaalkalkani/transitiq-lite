@@ -1,0 +1,48 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e8]:
+          - img [ref=e9]
+          - text: Powered by GPT-4o
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - text: Transit Document
+            - generic [ref=e21]:
+              - generic [ref=e55]:
+                - generic [ref=e56]:
+                  - img "Uploaded transit document preview" [ref=e57]
+                  - button "Change" [ref=e58] [cursor=pointer]
+                - generic [ref=e59]:
+                  - paragraph [ref=e60]: fau-transit-sample.png
+                  - button "Remove image" [ref=e61] [cursor=pointer]
+              - generic [ref=e31]:
+                - generic [ref=e32]:
+                  - img [ref=e33]
+                  - generic [ref=e35]: Your Question
+                - textbox "Your Question" [ref=e36]:
+                  - /placeholder: What would you like to know about this route?
+                  - text: Does the Blue Route run on Sundays?
+              - button "Analyze" [ref=e37] [cursor=pointer]:
+                - text: Analyze
+                - img [ref=e38]
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: Try a sample
+            - generic [ref=e42]:
+              - button "Does the Blue Route run on Sundays?" [active] [ref=e43] [cursor=pointer]
+              - button "Which shuttle stops at the Library?" [ref=e44] [cursor=pointer]
+              - button "What time does the Green Route stop running?" [ref=e45] [cursor=pointer]
+        - complementary [ref=e46]:
+          - generic [ref=e47]:
+            - img [ref=e49]
+            - paragraph [ref=e52]: Your answer will appear here
+            - paragraph [ref=e53]: Upload a transit document and ask a question
+  - alert [ref=e54]

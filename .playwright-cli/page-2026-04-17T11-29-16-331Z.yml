@@ -1,0 +1,85 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e9]:
+          - img [ref=e10]
+          - text: OpenAI
+    - main [ref=e13]:
+      - generic [ref=e14]:
+        - group [ref=e15]:
+          - generic "Routes and sources ↓" [ref=e16] [cursor=pointer]:
+            - text: Routes and sources
+            - generic [ref=e17]: ↓
+          - generic [ref=e19]:
+            - generic [ref=e20]:
+              - generic [ref=e21]:
+                - generic:
+                  - img
+                - combobox "Search your university..." [ref=e22]
+              - generic [ref=e23]:
+                - generic [ref=e24]:
+                  - paragraph [ref=e25]: Florida Atlantic University
+                  - paragraph [ref=e27]: Owl Express
+                - button "Clear selected university" [ref=e28] [cursor=pointer]:
+                  - img [ref=e29]
+            - generic [ref=e32]:
+              - text: "Transit link:"
+              - link "Owl Express" [ref=e33] [cursor=pointer]:
+                - /url: https://www.fau.edu/parking/bocacampusshuttle/
+              - button "edit" [ref=e34] [cursor=pointer]
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - heading "Route info" [level=2] [ref=e38]
+                - paragraph [ref=e39]: 3 routes available
+              - generic [ref=e40]:
+                - article [ref=e41]:
+                  - generic [ref=e42]:
+                    - heading "Boca Campus Shuttle" [level=3] [ref=e43]
+                    - generic [ref=e44]:
+                      - generic [ref=e45]: Mon-Fri
+                      - generic [ref=e46]: 7:00 AM - 10:00 PM
+                  - paragraph [ref=e47]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+                - article [ref=e48]:
+                  - generic [ref=e49]:
+                    - heading "Boca to Jupiter Shuttle" [level=3] [ref=e50]
+                    - generic [ref=e51]:
+                      - generic [ref=e52]: Mon-Fri
+                      - generic [ref=e53]: 7:30 AM - 9:00 PM
+                  - paragraph [ref=e54]: Administration Building → Student Union → S.E. Wimberly Library → +3 more
+                - article [ref=e55]:
+                  - generic [ref=e56]:
+                    - heading "Palm Tran Route 94" [level=3] [ref=e57]
+                    - generic [ref=e58]:
+                      - generic [ref=e59]: Mon-Sun
+                      - generic [ref=e60]: 8:00 AM - 11:00 PM
+                  - paragraph [ref=e61]: Administration Building → Student Union → S.E. Wimberly Library → +2 more
+              - link "View full transit info →" [ref=e62] [cursor=pointer]:
+                - /url: https://www.fau.edu/parking/bocacampusshuttle/
+        - generic [ref=e65]:
+          - paragraph [ref=e66]: Florida Atlantic University
+          - paragraph [ref=e67]: Ask me anything about Owl Express
+          - generic [ref=e68]:
+            - button "Does the Boca Campus Shuttle run on weekends? →" [ref=e69] [cursor=pointer]:
+              - generic [ref=e70]:
+                - generic [ref=e71]: Does the Boca Campus Shuttle run on weekends?
+                - generic [ref=e72]: →
+            - button "Which stops does the Boca to Jupiter Shuttle serve? →" [ref=e73] [cursor=pointer]:
+              - generic [ref=e74]:
+                - generic [ref=e75]: Which stops does the Boca to Jupiter Shuttle serve?
+                - generic [ref=e76]: →
+            - button "What are the operating hours for Owl Express? →" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78]:
+                - generic [ref=e79]: What are the operating hours for Owl Express?
+                - generic [ref=e80]: →
+        - generic [ref=e83]:
+          - button "Attach photos" [ref=e84] [cursor=pointer]:
+            - img [ref=e85]
+          - textbox "Ask about routes, schedules, stops..." [ref=e86]
+          - button "Send question" [disabled] [ref=e87]:
+            - img [ref=e88]
+  - alert [ref=e90]

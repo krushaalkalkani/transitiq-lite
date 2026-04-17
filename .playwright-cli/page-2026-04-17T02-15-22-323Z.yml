@@ -1,0 +1,61 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e12]:
+          - img [ref=e13]
+          - text: Powered by GPT-4o
+    - main [ref=e16]:
+      - complementary [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e21]:
+            - generic:
+              - img
+            - combobox "Search your university..." [ref=e22]
+          - generic [ref=e219]:
+            - generic [ref=e220]: Transit page link (optional)
+            - textbox "Transit page link (optional)" [ref=e222]:
+              - /placeholder: Paste your university's transit page URL
+            - paragraph [ref=e223]: We will fetch route info from this page to improve your answer
+          - generic [ref=e36]:
+            - button "Add photos" [ref=e37] [cursor=pointer]:
+              - img [ref=e38]
+            - button "Add photos" [ref=e39] [cursor=pointer]
+          - generic [ref=e41]:
+            - textbox "Ask anything about campus transit..." [ref=e43]: Does the Boca Campus Shuttle run on weekends?
+            - generic [ref=e44]:
+              - generic [ref=e45]: "Try:"
+              - generic [ref=e46]:
+                - generic [ref=e224]:
+                  - button "Does the Blue Route run on Sundays?" [ref=e225] [cursor=pointer]
+                  - generic [ref=e226]: ·
+                - generic [ref=e227]:
+                  - button "Which shuttle stops at the Library?" [ref=e228] [cursor=pointer]
+                  - generic [ref=e229]: ·
+                - button "What time does the Green Route stop running?" [ref=e231] [cursor=pointer]
+          - button "Ask ✦" [disabled] [ref=e55]
+      - generic [ref=e232]:
+        - paragraph [ref=e233]: Pick your university to see routes and ask questions
+        - paragraph [ref=e234]: 50 universities · AI-powered · Real transit data
+        - generic [ref=e235]:
+          - button "FAU" [ref=e236] [cursor=pointer]
+          - button "UCLA" [ref=e237] [cursor=pointer]
+          - button "MIT" [ref=e238] [cursor=pointer]
+      - complementary [ref=e132]:
+        - generic [ref=e239]:
+          - img [ref=e241]
+          - paragraph [ref=e244]: Your answer will appear here
+          - paragraph [ref=e245]: Upload a transit photo, paste a transit link, or select your university.
+        - generic [ref=e203]:
+          - generic [ref=e204]:
+            - img [ref=e206]
+            - heading "Recent Questions" [level=2] [ref=e209]
+          - group [ref=e211]:
+            - generic "Does the Boca Campus Shuttle run on weekends?" [ref=e212] [cursor=pointer]:
+              - generic [ref=e213]: Does the Boca Campus Shuttle run on weekends?
+              - img [ref=e215]
+  - alert [ref=e144]

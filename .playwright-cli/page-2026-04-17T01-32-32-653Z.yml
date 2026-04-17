@@ -1,0 +1,116 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e8]:
+          - img [ref=e9]
+          - text: Powered by GPT-4o
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - text: Transit Document
+            - generic [ref=e21]:
+              - generic [ref=e22]:
+                - generic [ref=e23]:
+                  - img [ref=e24]
+                  - generic [ref=e27]: University
+                - combobox "University" [ref=e29]
+                - generic [ref=e30]:
+                  - generic [ref=e32]:
+                    - generic [ref=e33]: Florida Atlantic University
+                    - button "Clear selected university" [ref=e34] [cursor=pointer]:
+                      - img [ref=e35]
+                  - paragraph [ref=e38]: "Transit system: Owl Express"
+                  - link "https://www.fau.edu/parking/bocacampusshuttle/" [ref=e39] [cursor=pointer]:
+                    - /url: https://www.fau.edu/parking/bocacampusshuttle/
+                    - img [ref=e40]
+                    - generic [ref=e43]: https://www.fau.edu/parking/bocacampusshuttle/
+              - generic [ref=e44]:
+                - generic [ref=e45]:
+                  - img [ref=e46]
+                  - generic [ref=e49]: Transit page link (optional)
+                - generic [ref=e50]:
+                  - textbox "Transit page link (optional)" [ref=e51]:
+                    - /placeholder: Paste your university's transit page URL
+                    - text: https://www.fau.edu/parking/bocacampusshuttle/
+                  - img [ref=e53]
+                - paragraph [ref=e55]: We will fetch route info from this page to improve your answer
+              - generic [ref=e56]:
+                - button "Add photo" [ref=e59] [cursor=pointer]:
+                  - img [ref=e60]
+                  - generic [ref=e61]: Add photo
+                - paragraph [ref=e62]: Photos optional — university data and transit link will be used
+              - generic [ref=e63]:
+                - generic [ref=e64]:
+                  - img [ref=e65]
+                  - generic [ref=e67]: Your Question
+                - textbox "Your Question" [ref=e68]:
+                  - /placeholder: What would you like to know about this route?
+                  - text: Does the Boca Campus Shuttle run on weekends?
+              - button "Analyze" [ref=e69] [cursor=pointer]:
+                - text: Analyze
+                - img [ref=e87]
+          - generic [ref=e72]:
+            - paragraph [ref=e73]: Try a sample
+            - generic [ref=e74]:
+              - button "Does the Boca Campus Shuttle run on weekends?" [ref=e75] [cursor=pointer]
+              - button "Which stops does the Boca to Jupiter Shuttle serve?" [ref=e76] [cursor=pointer]
+              - button "What are the operating hours for Owl Express?" [ref=e77] [cursor=pointer]
+        - complementary [ref=e78]:
+          - generic [ref=e89]:
+            - article [ref=e90]:
+              - generic [ref=e91]:
+                - generic [ref=e92]:
+                  - img [ref=e93]
+                  - heading "Direct Answer" [level=2] [ref=e96]
+                - paragraph [ref=e97]: Yes, use the selected university context.
+              - generic [ref=e98]:
+                - generic [ref=e99]:
+                  - img [ref=e100]
+                  - heading "Extracted Info" [level=3] [ref=e103]
+                - generic [ref=e105]:
+                  - generic [ref=e106]:
+                    - generic [ref=e107]: Route A
+                    - generic [ref=e108]: Route B
+                    - generic [ref=e109]: Route C
+                    - generic [ref=e110]: Route D
+                    - generic [ref=e111]: Route E
+                    - generic [ref=e154]: Route F
+                    - generic [ref=e155]: Route G
+                  - button "Show less" [active] [ref=e156] [cursor=pointer]
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - img [ref=e115]
+                  - heading "Explanation" [level=3] [ref=e117]
+                - paragraph [ref=e119]: This response is using university data and fetched transit page context.
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - img [ref=e122]
+                  - heading "Assumptions" [level=3] [ref=e124]
+                - paragraph [ref=e126]: No uploaded photos were provided.
+              - generic [ref=e127]:
+                - generic [ref=e128]:
+                  - img [ref=e129]
+                  - heading "Suggested Action" [level=3] [ref=e132]
+                - paragraph [ref=e134]: Check the transit page before leaving.
+              - generic [ref=e136]:
+                - generic [ref=e137]: AI-generated answer
+                - generic [ref=e138]: Florida Atlantic University data
+                - generic [ref=e139]: Transit page fetched
+            - button "Ask another question" [ref=e140] [cursor=pointer]
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - img [ref=e143]
+              - heading "Recent Questions" [level=2] [ref=e146]
+            - group [ref=e148]:
+              - generic "Does the Boca Campus Shuttle run on weekends?" [ref=e149] [cursor=pointer]:
+                - generic [ref=e150]: Does the Boca Campus Shuttle run on weekends?
+                - img [ref=e152]
+  - alert [ref=e86]

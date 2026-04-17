@@ -1,0 +1,26 @@
+{
+  "campus": "Florida Atlantic University",
+  "routes": [
+    {
+      "name": "Blue Route",
+      "stops": ["Housing", "Student Union", "Library", "Stadium"],
+      "path": "Housing → Student Union → Library → Stadium",
+      "days": "Mon-Sat",
+      "hours": "7AM-10PM"
+    },
+    {
+      "name": "Red Route",
+      "stops": ["Parking Garage", "Engineering", "Business", "FAU Stadium"],
+      "path": "Parking Garage → Engineering → Business → FAU Stadium",
+      "days": "Mon-Fri",
+      "hours": "6:30AM-9PM"
+    },
+    {
+      "name": "Green Route",
+      "stops": ["Innovation Village", "Breezeway", "Recreation Center"],
+      "path": "Innovation Village → Breezeway → Recreation Center",
+      "days": "Mon-Sun",
+      "hours": "8AM-11PM"
+    }
+  ]
+}

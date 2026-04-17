@@ -1,0 +1,226 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - link "Try it now" [ref=e6] [cursor=pointer]:
+          - /url: /app
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - paragraph [ref=e10]: Blue Route
+        - paragraph [ref=e11]: Housing → Library
+      - generic [ref=e12]:
+        - paragraph [ref=e13]: Green Route
+        - paragraph [ref=e14]: Mon-Sun • 8AM-11PM
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Your Campus Shuttle, Explained by AI." [level=1] [ref=e17]:
+            - generic [ref=e19]: Your
+            - generic [ref=e21]: Campus
+            - generic [ref=e23]: Shuttle,
+            - generic [ref=e25]: Explained
+            - generic [ref=e27]: by
+            - generic [ref=e29]: AI.
+          - paragraph [ref=e30]: Upload any shuttle schedule, route map, or transit notice. Ask a question in plain English. Get a clear, structured answer instantly.
+          - link "Try TransitIQ Lite" [ref=e31] [cursor=pointer]:
+            - /url: /app
+            - text: Try TransitIQ Lite
+            - img [ref=e32]
+        - generic [ref=e36]:
+          - generic [ref=e42]: transitiq-lite.vercel.app
+          - generic [ref=e43]:
+            - img "Sample FAU shuttle route sheet" [ref=e45]
+            - generic [ref=e46]:
+              - generic [ref=e47]:
+                - paragraph [ref=e48]: Question
+                - paragraph [ref=e49]: Does the Blue Route run on Sundays?
+              - generic [ref=e50]:
+                - paragraph [ref=e51]: Direct Answer
+                - paragraph [ref=e52]: No. The Blue Route runs Monday through Saturday from 7AM to 10PM.
+              - generic [ref=e53]:
+                - generic [ref=e54]:
+                  - paragraph [ref=e55]: Extracted Info
+                  - paragraph [ref=e56]: Mon-Sat • 7AM-10PM
+                - generic [ref=e57]:
+                  - paragraph [ref=e58]: Suggested Action
+                  - paragraph [ref=e59]: Check Green Route
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - img [ref=e64]
+        - generic [ref=e67]: 0+ Universities
+      - generic [ref=e68]:
+        - img [ref=e70]
+        - generic [ref=e74]: AI-Powered by GPT-4o
+      - generic [ref=e75]:
+        - img [ref=e77]
+        - generic [ref=e81]: Built with OpenAI Codex
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - heading "Built Different." [level=2] [ref=e86]
+        - paragraph [ref=e87]: Everything you need to navigate campus transit, powered by AI.
+      - generic [ref=e88]:
+        - article [ref=e90]:
+          - img [ref=e93]
+          - heading "Snap & Ask" [level=3] [ref=e96]
+          - paragraph [ref=e97]: Take a photo of any shuttle sign, printed schedule, or route map. No manual data entry needed.
+        - article [ref=e99]:
+          - img [ref=e102]
+          - heading "AI-Powered Answers" [level=3] [ref=e107]
+          - paragraph [ref=e108]: GPT-4o reads your image, understands the transit context, and answers your question with structured detail.
+        - article [ref=e110]:
+          - img [ref=e113]
+          - heading "Built for Students" [level=3] [ref=e116]
+          - paragraph [ref=e117]: Designed for 50+ US university campuses. Get route info, service hours, and stop details in seconds.
+    - generic [ref=e127]:
+      - heading "How It Works" [level=2] [ref=e129]
+      - generic [ref=e130]:
+        - img [ref=e131]
+        - img [ref=e133]
+        - article [ref=e136]:
+          - generic: "01"
+          - generic [ref=e137]:
+            - heading "Upload" [level=3] [ref=e138]
+            - paragraph [ref=e139]: Take a photo or upload a shuttle schedule, route map, or transit notice.
+        - article [ref=e141]:
+          - generic: "02"
+          - generic [ref=e142]:
+            - heading "Ask" [level=3] [ref=e143]
+            - paragraph [ref=e144]: Type your question in plain English. Like talking to a friend who knows every route.
+        - article [ref=e146]:
+          - generic: "03"
+          - generic [ref=e147]:
+            - heading "Get Your Answer" [level=3] [ref=e148]
+            - paragraph [ref=e149]: Receive a structured response with the direct answer, extracted details, and next steps.
+    - generic [ref=e153]:
+      - heading "See It In Action" [level=2] [ref=e155]
+      - generic [ref=e157]:
+        - img "Sample shuttle schedule" [ref=e160]
+        - img [ref=e163]
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - paragraph [ref=e168]: Question
+            - paragraph [ref=e169]: Does the Blue Route run on Sundays?
+          - generic [ref=e170]:
+            - paragraph [ref=e171]: Direct Answer
+            - paragraph [ref=e172]: No. The Blue Route runs Monday through Saturday from 7AM to 10PM.
+          - generic [ref=e173]:
+            - generic [ref=e174]: Mon-Sat
+            - generic [ref=e175]: 7AM-10PM
+            - generic [ref=e176]: Student Union
+            - generic [ref=e177]: Library
+    - generic [ref=e180]:
+      - heading "Try it now. No sign-up needed." [level=2] [ref=e181]
+      - paragraph [ref=e182]: Upload a photo, pick a campus, or paste a transit page. TransitIQ Lite turns scattered route info into a clear answer.
+      - link "Launch TransitIQ Lite" [ref=e183] [cursor=pointer]:
+        - /url: /app
+        - text: Launch TransitIQ Lite
+        - img [ref=e184]
+      - paragraph [ref=e186]: Free • No login • Instant answers
+    - generic [ref=e189]:
+      - generic [ref=e191]:
+        - generic [ref=e192]:
+          - generic [ref=e193]: FAU
+          - generic [ref=e194]: •
+        - generic [ref=e195]:
+          - generic [ref=e196]: UCLA
+          - generic [ref=e197]: •
+        - generic [ref=e198]:
+          - generic [ref=e199]: MIT
+          - generic [ref=e200]: •
+        - generic [ref=e201]:
+          - generic [ref=e202]: Stanford
+          - generic [ref=e203]: •
+        - generic [ref=e204]:
+          - generic [ref=e205]: Harvard
+          - generic [ref=e206]: •
+        - generic [ref=e207]:
+          - generic [ref=e208]: Ohio State
+          - generic [ref=e209]: •
+        - generic [ref=e210]:
+          - generic [ref=e211]: Michigan
+          - generic [ref=e212]: •
+        - generic [ref=e213]:
+          - generic [ref=e214]: Berkeley
+          - generic [ref=e215]: •
+        - generic [ref=e216]:
+          - generic [ref=e217]: Georgia Tech
+          - generic [ref=e218]: •
+        - generic [ref=e219]:
+          - generic [ref=e220]: NYU
+          - generic [ref=e221]: •
+        - generic [ref=e222]:
+          - generic [ref=e223]: Columbia
+          - generic [ref=e224]: •
+        - generic [ref=e225]:
+          - generic [ref=e226]: UT Austin
+          - generic [ref=e227]: •
+        - generic [ref=e228]:
+          - generic [ref=e229]: Purdue
+          - generic [ref=e230]: •
+        - generic [ref=e231]:
+          - generic [ref=e232]: Duke
+          - generic [ref=e233]: •
+        - generic [ref=e234]:
+          - generic [ref=e235]: Georgetown
+          - generic [ref=e236]: •
+        - generic [ref=e237]:
+          - generic [ref=e238]: FAU
+          - generic [ref=e239]: •
+        - generic [ref=e240]:
+          - generic [ref=e241]: UCLA
+          - generic [ref=e242]: •
+        - generic [ref=e243]:
+          - generic [ref=e244]: MIT
+          - generic [ref=e245]: •
+        - generic [ref=e246]:
+          - generic [ref=e247]: Stanford
+          - generic [ref=e248]: •
+        - generic [ref=e249]:
+          - generic [ref=e250]: Harvard
+          - generic [ref=e251]: •
+        - generic [ref=e252]:
+          - generic [ref=e253]: Ohio State
+          - generic [ref=e254]: •
+        - generic [ref=e255]:
+          - generic [ref=e256]: Michigan
+          - generic [ref=e257]: •
+        - generic [ref=e258]:
+          - generic [ref=e259]: Berkeley
+          - generic [ref=e260]: •
+        - generic [ref=e261]:
+          - generic [ref=e262]: Georgia Tech
+          - generic [ref=e263]: •
+        - generic [ref=e264]:
+          - generic [ref=e265]: NYU
+          - generic [ref=e266]: •
+        - generic [ref=e267]:
+          - generic [ref=e268]: Columbia
+          - generic [ref=e269]: •
+        - generic [ref=e270]:
+          - generic [ref=e271]: UT Austin
+          - generic [ref=e272]: •
+        - generic [ref=e273]:
+          - generic [ref=e274]: Purdue
+          - generic [ref=e275]: •
+        - generic [ref=e276]:
+          - generic [ref=e277]: Duke
+          - generic [ref=e278]: •
+        - generic [ref=e279]:
+          - generic [ref=e280]: Georgetown
+          - generic [ref=e281]: •
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - paragraph [ref=e284]: TransitIQ Lite
+          - paragraph [ref=e285]: Built by Krushal Kalkani
+        - generic [ref=e286]: Codex Creator Challenge 2026
+        - generic [ref=e287]: Powered by OpenAI GPT-4o
+      - generic [ref=e288]:
+        - link "GitHub" [ref=e289] [cursor=pointer]:
+          - /url: "#"
+        - link "Handshake" [ref=e290] [cursor=pointer]:
+          - /url: "#"
+        - link "About" [ref=e291] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e292]: © 2026 Krushal Kalkani. All rights reserved.
+  - alert [ref=e293]

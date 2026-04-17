@@ -1,0 +1,89 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e123]: MIT → MIT Shuttle
+        - generic [ref=e11]:
+          - img [ref=e12]
+          - text: Powered by OpenAI GPT-4o
+    - main [ref=e15]:
+      - complementary [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - generic:
+                - img
+              - combobox "Search your university..." [ref=e20]
+            - generic [ref=e124]:
+              - generic [ref=e125]:
+                - paragraph [ref=e126]: Massachusetts Institute of Technology
+                - paragraph [ref=e128]: MIT Shuttle
+              - button "Clear selected university" [ref=e129] [cursor=pointer]:
+                - img [ref=e130]
+          - generic [ref=e133]:
+            - img [ref=e134]
+            - link "https://web.mit.edu/facilities/transportation/shuttles/" [ref=e137] [cursor=pointer]:
+              - /url: https://web.mit.edu/facilities/transportation/shuttles/
+            - img [ref=e139]
+            - button "edit" [ref=e141] [cursor=pointer]
+          - generic [ref=e142]:
+            - generic [ref=e144]:
+              - heading "Route info" [level=2] [ref=e145]
+              - paragraph [ref=e146]: 3 routes available
+            - generic [ref=e147]:
+              - article [ref=e148]:
+                - generic [ref=e149]:
+                  - heading "Tech Shuttle" [level=3] [ref=e150]
+                  - generic [ref=e151]:
+                    - generic [ref=e152]: Mon-Fri
+                    - generic [ref=e153]: 7:00 AM - 10:00 PM
+                - paragraph [ref=e154]: Kendall Square → Student Center → Stata Center → +2 more
+              - article [ref=e155]:
+                - generic [ref=e156]:
+                  - heading "SafeRide Cambridge" [level=3] [ref=e157]
+                  - generic [ref=e158]:
+                    - generic [ref=e159]: Mon-Sun
+                    - generic [ref=e160]: 6:00 PM - 2:00 AM
+                - paragraph [ref=e161]: Main Library → Kendall Square → Residence Halls → +3 more
+              - article [ref=e162]:
+                - generic [ref=e163]:
+                  - heading "SafeRide Boston East" [level=3] [ref=e164]
+                  - generic [ref=e165]:
+                    - generic [ref=e166]: Mon-Sun
+                    - generic [ref=e167]: 6:00 PM - 2:00 AM
+                - paragraph [ref=e168]: Kendall Square → Student Center → Stata Center → +3 more
+            - link "View full transit info →" [ref=e169] [cursor=pointer]:
+              - /url: https://web.mit.edu/facilities/transportation/shuttles/
+      - generic [ref=e67]:
+        - generic [ref=e170]:
+          - paragraph [ref=e171]: Massachusetts Institute of Technology
+          - paragraph [ref=e172]: Ask me anything about MIT Shuttle
+          - generic [ref=e173]:
+            - button "Does the Tech Shuttle run on weekends? →" [ref=e174] [cursor=pointer]:
+              - generic [ref=e175]:
+                - generic [ref=e176]: Does the Tech Shuttle run on weekends?
+                - generic [ref=e177]: →
+            - button "Which stops does the SafeRide Cambridge serve? →" [ref=e178] [cursor=pointer]:
+              - generic [ref=e179]:
+                - generic [ref=e180]: Which stops does the SafeRide Cambridge serve?
+                - generic [ref=e181]: →
+            - button "What are the operating hours for MIT Shuttle? →" [ref=e182] [cursor=pointer]:
+              - generic [ref=e183]:
+                - generic [ref=e184]: What are the operating hours for MIT Shuttle?
+                - generic [ref=e185]: →
+        - generic [ref=e87]:
+          - generic [ref=e99]:
+            - img "Attached transit photo 1" [ref=e100]
+            - button "Remove attached photo 1" [ref=e101] [cursor=pointer]:
+              - img [ref=e102]
+          - generic [ref=e88]:
+            - button "Upload transit photos" [ref=e91] [cursor=pointer]:
+              - generic [ref=e105]: "1"
+            - textbox "Ask about Massachusetts Institute of Technology transit..." [active] [ref=e186]
+            - button "Send question" [disabled] [ref=e94]:
+              - img [ref=e95]
+  - alert [ref=e97]

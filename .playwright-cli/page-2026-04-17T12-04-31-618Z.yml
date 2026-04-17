@@ -1,0 +1,163 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "Back to home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - text: Back to home
+      - generic [ref=e9]:
+        - heading "Contact Us" [level=1] [ref=e10]
+        - paragraph [ref=e11]: Have a question, found a bug, or want to collaborate?
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - paragraph [ref=e19]: Email
+            - link "krushal.kalkani@icloud.com" [ref=e20] [cursor=pointer]:
+              - /url: mailto:krushal.kalkani@icloud.com
+          - button "Copy" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - paragraph [ref=e24]: Location
+            - paragraph [ref=e25]: Boca Raton, Florida
+          - generic [ref=e26]:
+            - paragraph [ref=e27]: Response time
+            - paragraph [ref=e28]: Usually within 24 hours
+      - generic [ref=e153]:
+        - img [ref=e155]
+        - paragraph [ref=e157]: Thanks! Your message has been received.
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - text: Name
+            - textbox "Name" [ref=e32]
+          - generic [ref=e33]:
+            - text: Email
+            - textbox "Email" [ref=e34]
+          - generic [ref=e35]:
+            - text: Subject
+            - combobox "Subject" [ref=e36]:
+              - option "General" [selected]
+              - option "Bug Report"
+              - option "Feature Request"
+              - option "University Request"
+              - option "Other"
+          - generic [ref=e37]:
+            - text: Message
+            - textbox "Message" [ref=e38]
+        - button "Send message" [active] [ref=e39] [cursor=pointer]
+    - generic [ref=e42]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]: FAU
+          - generic [ref=e47]: •
+        - generic [ref=e48]:
+          - generic [ref=e49]: UCLA
+          - generic [ref=e50]: •
+        - generic [ref=e51]:
+          - generic [ref=e52]: MIT
+          - generic [ref=e53]: •
+        - generic [ref=e54]:
+          - generic [ref=e55]: Stanford
+          - generic [ref=e56]: •
+        - generic [ref=e57]:
+          - generic [ref=e58]: Harvard
+          - generic [ref=e59]: •
+        - generic [ref=e60]:
+          - generic [ref=e61]: Ohio State
+          - generic [ref=e62]: •
+        - generic [ref=e63]:
+          - generic [ref=e64]: Michigan
+          - generic [ref=e65]: •
+        - generic [ref=e66]:
+          - generic [ref=e67]: Berkeley
+          - generic [ref=e68]: •
+        - generic [ref=e69]:
+          - generic [ref=e70]: Georgia Tech
+          - generic [ref=e71]: •
+        - generic [ref=e72]:
+          - generic [ref=e73]: NYU
+          - generic [ref=e74]: •
+        - generic [ref=e75]:
+          - generic [ref=e76]: Columbia
+          - generic [ref=e77]: •
+        - generic [ref=e78]:
+          - generic [ref=e79]: UT Austin
+          - generic [ref=e80]: •
+        - generic [ref=e81]:
+          - generic [ref=e82]: Purdue
+          - generic [ref=e83]: •
+        - generic [ref=e84]:
+          - generic [ref=e85]: Duke
+          - generic [ref=e86]: •
+        - generic [ref=e87]:
+          - generic [ref=e88]: Georgetown
+          - generic [ref=e89]: •
+        - generic [ref=e90]:
+          - generic [ref=e91]: FAU
+          - generic [ref=e92]: •
+        - generic [ref=e93]:
+          - generic [ref=e94]: UCLA
+          - generic [ref=e95]: •
+        - generic [ref=e96]:
+          - generic [ref=e97]: MIT
+          - generic [ref=e98]: •
+        - generic [ref=e99]:
+          - generic [ref=e100]: Stanford
+          - generic [ref=e101]: •
+        - generic [ref=e102]:
+          - generic [ref=e103]: Harvard
+          - generic [ref=e104]: •
+        - generic [ref=e105]:
+          - generic [ref=e106]: Ohio State
+          - generic [ref=e107]: •
+        - generic [ref=e108]:
+          - generic [ref=e109]: Michigan
+          - generic [ref=e110]: •
+        - generic [ref=e111]:
+          - generic [ref=e112]: Berkeley
+          - generic [ref=e113]: •
+        - generic [ref=e114]:
+          - generic [ref=e115]: Georgia Tech
+          - generic [ref=e116]: •
+        - generic [ref=e117]:
+          - generic [ref=e118]: NYU
+          - generic [ref=e119]: •
+        - generic [ref=e120]:
+          - generic [ref=e121]: Columbia
+          - generic [ref=e122]: •
+        - generic [ref=e123]:
+          - generic [ref=e124]: UT Austin
+          - generic [ref=e125]: •
+        - generic [ref=e126]:
+          - generic [ref=e127]: Purdue
+          - generic [ref=e128]: •
+        - generic [ref=e129]:
+          - generic [ref=e130]: Duke
+          - generic [ref=e131]: •
+        - generic [ref=e132]:
+          - generic [ref=e133]: Georgetown
+          - generic [ref=e134]: •
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - paragraph [ref=e137]: TransitIQ Lite
+          - paragraph [ref=e138]: Built by Krushal Kalkani
+        - generic [ref=e139]: Codex Creator Challenge 2026
+        - generic [ref=e140]: Powered by OpenAI GPT-4o
+      - navigation "Footer navigation" [ref=e141]:
+        - generic [ref=e142]:
+          - link "Try TransitIQ Lite" [ref=e143] [cursor=pointer]:
+            - /url: /app
+          - link "List My University" [ref=e144] [cursor=pointer]:
+            - /url: /list-university
+          - link "About" [ref=e145] [cursor=pointer]:
+            - /url: /about
+        - generic [ref=e146]:
+          - link "Privacy Policy" [ref=e147] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms of Service" [ref=e148] [cursor=pointer]:
+            - /url: /terms
+          - link "Contact" [ref=e149] [cursor=pointer]:
+            - /url: /contact
+      - generic [ref=e150]: © 2026 Krushal Kalkani. All rights reserved.
+  - alert [ref=e151]

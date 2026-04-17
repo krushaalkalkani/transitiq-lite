@@ -1,0 +1,45 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - img [ref=e7]
+          - generic [ref=e11]:
+            - generic [ref=e12]: TransitIQ Lite
+            - generic [ref=e13]: AI Campus Transit Assistant
+        - button "Switch to dark mode" [ref=e14] [cursor=pointer]:
+          - img [ref=e15]
+    - main [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: Florida Atlantic University
+          - heading "Ask a route question from a schedule photo." [level=1] [ref=e21]
+          - paragraph [ref=e22]: Upload a shuttle flyer, route map, or screenshot and get a direct answer grounded in FAU shuttle context.
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - heading "Transit document" [level=2] [ref=e26]
+              - paragraph [ref=e27]: Upload a schedule photo, route map, or campus shuttle screenshot.
+            - button "+ Drop an image here or choose a file On mobile, your camera can capture a shuttle sign or printed schedule." [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: +
+              - generic [ref=e31]: Drop an image here or choose a file
+              - generic [ref=e32]: On mobile, your camera can capture a shuttle sign or printed schedule.
+          - generic [ref=e33]:
+            - generic [ref=e34]:
+              - text: Question
+              - paragraph [ref=e35]: Ask about service days, stop order, route names, or operating hours.
+            - textbox "Question" [ref=e36]:
+              - /placeholder: e.g. Does the Blue Route run on Sundays?
+          - generic [ref=e37]:
+            - heading "Sample shuttle questions" [level=2] [ref=e38]
+            - generic [ref=e39]:
+              - img "Sample FAU shuttle route sheet" [ref=e40]
+              - generic [ref=e41]:
+                - button "Does the Blue Route run on Sundays?" [ref=e42] [cursor=pointer]
+                - button "Which shuttle stops at the Library?" [ref=e43] [cursor=pointer]
+                - button "What time does the Green Route stop running?" [ref=e44] [cursor=pointer]
+          - generic [ref=e45]:
+            - button "Analyze document" [ref=e46] [cursor=pointer]
+            - paragraph [ref=e47]: The answer includes extracted details and any assumptions.
+    - contentinfo [ref=e48]: Built by Krushal Kalkani • TransitIQ Lite • Codex Creator Challenge 2026
+  - alert [ref=e49]

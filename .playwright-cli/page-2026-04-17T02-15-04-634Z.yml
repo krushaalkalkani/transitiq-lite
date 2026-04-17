@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e10]: FAU → Owl Express
+        - generic [ref=e12]:
+          - img [ref=e13]
+          - text: Powered by GPT-4o
+    - main [ref=e16]:
+      - complementary [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]:
+              - generic:
+                - img
+              - combobox "Search your university..." [ref=e22]
+            - generic [ref=e23]:
+              - generic [ref=e24]:
+                - paragraph [ref=e25]: Florida Atlantic University
+                - paragraph [ref=e26]: Owl Express
+              - button "Clear selected university" [ref=e27] [cursor=pointer]:
+                - img [ref=e28]
+          - generic [ref=e31]:
+            - text: "Transit link:"
+            - link "Owl Express" [ref=e32] [cursor=pointer]:
+              - /url: https://www.fau.edu/parking/bocacampusshuttle/
+            - button "edit" [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "Add photos" [ref=e37] [cursor=pointer]:
+              - img [ref=e38]
+            - button "Add photos" [ref=e39] [cursor=pointer]
+          - generic [ref=e41]:
+            - textbox "Ask anything about campus transit..." [ref=e43]: Does the Boca Campus Shuttle run on weekends?
+            - generic [ref=e44]:
+              - generic [ref=e45]: "Try:"
+              - generic [ref=e46]:
+                - generic [ref=e47]:
+                  - button "Does the Boca Campus Shuttle run on weekends?" [ref=e48] [cursor=pointer]
+                  - generic [ref=e49]: ·
+                - generic [ref=e50]:
+                  - button "Which stops does the Boca to Jupiter Shuttle serve?" [ref=e51] [cursor=pointer]
+                  - generic [ref=e52]: ·
+                - button "What are the operating hours for Owl Express?" [ref=e54] [cursor=pointer]
+          - button "Ask ✦" [ref=e55] [cursor=pointer]
+      - generic [ref=e57]:
+        - generic [ref=e59]:
+          - heading "Florida Atlantic University Transit" [level=2] [ref=e60]
+          - paragraph [ref=e61]: Owl Express • 3 routes
+        - generic [ref=e62]:
+          - article [ref=e63]:
+            - generic [ref=e65]:
+              - generic [ref=e66]:
+                - heading "Boca Campus Shuttle" [level=3] [ref=e67]
+                - generic [ref=e68]:
+                  - generic [ref=e69]: Mon-Fri
+                  - generic [ref=e70]: 7:00 AM - 10:00 PM
+              - generic [ref=e71]:
+                - generic [ref=e73]: Administration Building
+                - generic [ref=e74]:
+                  - generic [ref=e75]: →
+                  - generic [ref=e76]: Student Union
+                - generic [ref=e77]:
+                  - generic [ref=e78]: →
+                  - generic [ref=e79]: S.E. Wimberly Library
+                - generic [ref=e80]:
+                  - generic [ref=e81]: →
+                  - generic [ref=e82]: Engineering East
+                - generic [ref=e83]:
+                  - generic [ref=e84]: →
+                  - generic [ref=e85]: Innovation Village
+          - article [ref=e86]:
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - heading "Boca to Jupiter Shuttle" [level=3] [ref=e90]
+                - generic [ref=e91]:
+                  - generic [ref=e92]: Mon-Fri
+                  - generic [ref=e93]: 7:30 AM - 9:00 PM
+              - generic [ref=e94]:
+                - generic [ref=e96]: Administration Building
+                - generic [ref=e97]:
+                  - generic [ref=e98]: →
+                  - generic [ref=e99]: Student Union
+                - generic [ref=e100]:
+                  - generic [ref=e101]: →
+                  - generic [ref=e102]: S.E. Wimberly Library
+                - generic [ref=e103]:
+                  - generic [ref=e104]: →
+                  - generic [ref=e105]: Campus Transit Center
+                - generic [ref=e106]: →
+                - button "and 2 more stops" [ref=e107] [cursor=pointer]
+          - article [ref=e108]:
+            - generic [ref=e110]:
+              - generic [ref=e111]:
+                - heading "Palm Tran Route 94" [level=3] [ref=e112]
+                - generic [ref=e113]:
+                  - generic [ref=e114]: Mon-Sun
+                  - generic [ref=e115]: 8:00 AM - 11:00 PM
+              - generic [ref=e116]:
+                - generic [ref=e118]: Administration Building
+                - generic [ref=e119]:
+                  - generic [ref=e120]: →
+                  - generic [ref=e121]: Student Union
+                - generic [ref=e122]:
+                  - generic [ref=e123]: →
+                  - generic [ref=e124]: S.E. Wimberly Library
+                - generic [ref=e125]:
+                  - generic [ref=e126]: →
+                  - generic [ref=e127]: Engineering East
+                - generic [ref=e128]:
+                  - generic [ref=e129]: →
+                  - generic [ref=e130]: Innovation Village
+        - link "View full transit info →" [ref=e131] [cursor=pointer]:
+          - /url: https://www.fau.edu/parking/bocacampusshuttle/
+      - complementary [ref=e132]:
+        - generic [ref=e145]:
+          - article [ref=e146]:
+            - generic [ref=e147]:
+              - generic [ref=e148]:
+                - img [ref=e149]
+                - heading "Direct Answer" [level=2] [ref=e152]
+              - paragraph [ref=e153]: There is not enough information to confirm Sunday service from the selected context alone.
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - generic [ref=e156]:
+                  - img [ref=e158]
+                  - heading "Extracted Info" [level=3] [ref=e161]
+                - generic [ref=e163]:
+                  - generic [ref=e164]:
+                    - generic [ref=e165]: Florida Atlantic University data
+                    - generic [ref=e166]: Owl Express
+                    - generic [ref=e167]: Boca Campus Shuttle
+                    - generic [ref=e168]: Mon-Fri
+                    - generic [ref=e169]: 7:00 AM - 10:00 PM
+                  - button "Show all (6)" [ref=e170] [cursor=pointer]
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - img [ref=e174]
+                  - heading "Explanation" [level=3] [ref=e176]
+                - paragraph [ref=e178]: The available FAU route data lists weekday service for the Boca Campus Shuttle, but no uploaded schedule photo was provided for extra confirmation.
+              - generic [ref=e179]:
+                - generic [ref=e180]:
+                  - img [ref=e182]
+                  - heading "Assumptions" [level=3] [ref=e184]
+                - paragraph [ref=e186]: Not enough schedule detail was provided beyond the campus route dataset.
+              - generic [ref=e187]:
+                - generic [ref=e188]:
+                  - img [ref=e190]
+                  - heading "Suggested Action" [level=3] [ref=e193]
+                - paragraph [ref=e195]: Upload a photo of the posted schedule or check the FAU transit page.
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - generic [ref=e198]: AI-generated answer
+                  - generic [ref=e199]: Florida Atlantic University data
+                - paragraph [ref=e200]:
+                  - text: For more details, try uploading a photo of the actual schedule or check
+                  - link "transit info" [ref=e201] [cursor=pointer]:
+                    - /url: https://www.fau.edu/parking/bocacampusshuttle/
+                  - text: .
+          - button "Ask another question" [ref=e202] [cursor=pointer]
+        - generic [ref=e203]:
+          - generic [ref=e204]:
+            - img [ref=e206]
+            - heading "Recent Questions" [level=2] [ref=e209]
+          - group [ref=e211]:
+            - generic "Does the Boca Campus Shuttle run on weekends?" [ref=e212] [cursor=pointer]:
+              - generic [ref=e213]: Does the Boca Campus Shuttle run on weekends?
+              - img [ref=e215]
+  - alert [ref=e144]

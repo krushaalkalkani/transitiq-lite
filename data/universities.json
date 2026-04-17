@@ -1,0 +1,2470 @@
+[
+  {
+    "id": "fau",
+    "name": "Florida Atlantic University",
+    "city": "Boca Raton",
+    "state": "FL",
+    "transitSystemName": "Owl Express",
+    "transitUrl": "https://www.fau.edu/parking/bocacampusshuttle/",
+    "routes": [
+      {
+        "name": "Boca Campus Shuttle",
+        "stops": [
+          "Administration Building",
+          "Student Union",
+          "S.E. Wimberly Library",
+          "Engineering East",
+          "Innovation Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Boca to Jupiter Shuttle",
+        "stops": [
+          "Administration Building",
+          "Student Union",
+          "S.E. Wimberly Library",
+          "Campus Transit Center",
+          "Innovation Village",
+          "Recreation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Palm Tran Route 94",
+        "stops": [
+          "Administration Building",
+          "Student Union",
+          "S.E. Wimberly Library",
+          "Engineering East",
+          "Innovation Village"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "ucla",
+    "name": "University of California, Los Angeles",
+    "city": "Los Angeles",
+    "state": "CA",
+    "transitSystemName": "BruinBus",
+    "transitUrl": "https://transportation.ucla.edu/getting-around-campus/bruinbus",
+    "routes": [
+      {
+        "name": "U1 Wilshire",
+        "stops": [
+          "Ackerman Union",
+          "Powell Library",
+          "Bruin Plaza",
+          "Weyburn Terrace",
+          "Gateway Plaza"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "U2 Wilshire",
+        "stops": [
+          "Ackerman Union",
+          "Powell Library",
+          "Bruin Plaza",
+          "Weyburn Terrace",
+          "Gateway Plaza"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "U3 Weyburn/Gateway Plaza",
+        "stops": [
+          "Ackerman Union",
+          "Powell Library",
+          "Bruin Plaza",
+          "Weyburn Terrace",
+          "Gateway Plaza"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "usc",
+    "name": "University of Southern California",
+    "city": "Los Angeles",
+    "state": "CA",
+    "transitSystemName": "USC Transportation",
+    "transitUrl": "https://transnet.usc.edu/",
+    "routes": [
+      {
+        "name": "Intercampus Shuttle",
+        "stops": [
+          "UPC Transit Center",
+          "Doheny Library",
+          "Viterbi School",
+          "Campus Transit Center",
+          "Health Sciences Campus",
+          "Los Angeles Memorial Coliseum"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Health Sciences Campus",
+        "stops": [
+          "UPC Transit Center",
+          "Doheny Library",
+          "Health Sciences Center",
+          "Medical Center",
+          "Research Labs",
+          "Student Housing"
+        ],
+        "days": "Mon-Fri",
+        "hours": "6:30 AM - 10:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "University Village Express",
+        "stops": [
+          "Transit Hub",
+          "UPC Transit Center",
+          "Doheny Library",
+          "University Village",
+          "Parking Garage",
+          "Health Sciences Campus"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "mit",
+    "name": "Massachusetts Institute of Technology",
+    "city": "Cambridge",
+    "state": "MA",
+    "transitSystemName": "MIT Shuttle",
+    "transitUrl": "https://web.mit.edu/facilities/transportation/shuttles/",
+    "routes": [
+      {
+        "name": "Tech Shuttle",
+        "stops": [
+          "Kendall Square",
+          "Student Center",
+          "Stata Center",
+          "MIT Medical",
+          "Simmons Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "SafeRide Cambridge",
+        "stops": [
+          "Main Library",
+          "Kendall Square",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "SafeRide Boston East",
+        "stops": [
+          "Kendall Square",
+          "Student Center",
+          "Stata Center",
+          "Campus Transit Center",
+          "Simmons Hall",
+          "Massachusetts Ave"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "stanford",
+    "name": "Stanford University",
+    "city": "Stanford",
+    "state": "CA",
+    "transitSystemName": "Marguerite Shuttle",
+    "transitUrl": "https://transportation.stanford.edu/getting-stanford/marguerite/shuttle-lines-and-schedules",
+    "routes": [
+      {
+        "name": "Line X",
+        "stops": [
+          "Tresidder Union",
+          "Green Library",
+          "Main Quad",
+          "Engineering Quad",
+          "Stanford Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Line Y",
+        "stops": [
+          "Tresidder Union",
+          "Green Library",
+          "Main Quad",
+          "Engineering Quad",
+          "Stanford Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Line AE-F",
+        "stops": [
+          "Tresidder Union",
+          "Green Library",
+          "Main Quad",
+          "Engineering Quad",
+          "Stanford Stadium"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "harvard",
+    "name": "Harvard University",
+    "city": "Cambridge",
+    "state": "MA",
+    "transitSystemName": "Harvard Shuttle",
+    "transitUrl": "https://transportation.harvard.edu/harvard-shuttle/shuttle-schedule-and-routes",
+    "routes": [
+      {
+        "name": "Allston Loop",
+        "stops": [
+          "Harvard Square",
+          "Science Center",
+          "Lamont Library",
+          "Campus Transit Center",
+          "Harvard Yard",
+          "SEC"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "M2 Longwood Medical",
+        "stops": [
+          "Harvard Square",
+          "Science Center",
+          "Health Sciences Center",
+          "Medical Center",
+          "Research Labs",
+          "Student Housing"
+        ],
+        "days": "Mon-Fri",
+        "hours": "6:30 AM - 10:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Quad to SEC",
+        "stops": [
+          "Harvard Square",
+          "Science Center",
+          "Lamont Library",
+          "Allston Campus",
+          "Harvard Yard"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "ohio-state",
+    "name": "Ohio State University",
+    "city": "Columbus",
+    "state": "OH",
+    "transitSystemName": "CABS",
+    "transitUrl": "https://ttm.osu.edu/cabs",
+    "routes": [
+      {
+        "name": "North Express",
+        "stops": [
+          "Ohio Union",
+          "Thompson Library",
+          "North Campus",
+          "Campus Transit Center",
+          "Wexner Medical Center",
+          "Ohio Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "South Express",
+        "stops": [
+          "Ohio Union",
+          "Thompson Library",
+          "North Campus",
+          "Campus Transit Center",
+          "Wexner Medical Center",
+          "Ohio Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Northstar",
+        "stops": [
+          "Ohio Union",
+          "Thompson Library",
+          "North Campus",
+          "Campus Transit Center",
+          "Wexner Medical Center",
+          "Ohio Stadium"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "umich",
+    "name": "University of Michigan",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "transitSystemName": "UM Transit Services",
+    "transitUrl": "https://ltp.umich.edu/campus-transit/routes-and-schedules/",
+    "routes": [
+      {
+        "name": "Oxford Shuttle",
+        "stops": [
+          "Michigan Union",
+          "Hatcher Library",
+          "Central Campus Transit Center",
+          "North Campus Research Complex",
+          "Bursley Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Bursley-Baits",
+        "stops": [
+          "Michigan Union",
+          "Hatcher Library",
+          "Central Campus Transit Center",
+          "North Campus Research Complex",
+          "Bursley Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "MedExpress",
+        "stops": [
+          "Transit Hub",
+          "Michigan Union",
+          "Hatcher Library",
+          "North Campus Research Complex",
+          "Parking Garage",
+          "Bursley Hall"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "penn-state",
+    "name": "Pennsylvania State University",
+    "city": "University Park",
+    "state": "PA",
+    "transitSystemName": "Penn State Campus Shuttle",
+    "transitUrl": "https://transportation.psu.edu/campus-shuttle",
+    "routes": [
+      {
+        "name": "College Avenue",
+        "stops": [
+          "HUB-Robeson Center",
+          "Pattee Library",
+          "College Avenue",
+          "Beaver Stadium",
+          "East Halls"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Beaver Avenue",
+        "stops": [
+          "HUB-Robeson Center",
+          "Pattee Library",
+          "College Avenue",
+          "Beaver Stadium",
+          "East Halls"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Red Link",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uf",
+    "name": "University of Florida",
+    "city": "Gainesville",
+    "state": "FL",
+    "transitSystemName": "UF Campus Connector",
+    "transitUrl": "https://taps.ufl.edu/alternative-transportation/campus-connector/",
+    "routes": [
+      {
+        "name": "Westside Circulator",
+        "stops": [
+          "Reitz Union",
+          "Library West",
+          "Turlington Plaza",
+          "Campus Transit Center",
+          "Health Science Center",
+          "Park and Ride"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Eastside Circulator",
+        "stops": [
+          "Reitz Union",
+          "Library West",
+          "Turlington Plaza",
+          "Campus Transit Center",
+          "Health Science Center",
+          "Park and Ride"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      }
+    ]
+  },
+  {
+    "id": "fsu",
+    "name": "Florida State University",
+    "city": "Tallahassee",
+    "state": "FL",
+    "transitSystemName": "Seminole Express",
+    "transitUrl": "https://transportation.fsu.edu/bus",
+    "routes": [
+      {
+        "name": "Seminole Express",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Strozier Library",
+          "College of Engineering",
+          "Parking Garage",
+          "Traditions Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Night Nole",
+        "stops": [
+          "Main Library",
+          "Student Union",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "FSU Safe Ride",
+        "stops": [
+          "Main Library",
+          "Student Union",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "gatech",
+    "name": "Georgia Institute of Technology",
+    "city": "Atlanta",
+    "state": "GA",
+    "transitSystemName": "Stinger",
+    "transitUrl": "https://www.pts.gatech.edu/shuttles/stinger/",
+    "routes": [
+      {
+        "name": "Red Route",
+        "stops": [
+          "Student Center",
+          "Clough Commons",
+          "Klaus Computing",
+          "Bobby Dodd Stadium",
+          "CRC"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Blue Route",
+        "stops": [
+          "Student Center",
+          "Clough Commons",
+          "Klaus Computing",
+          "Bobby Dodd Stadium",
+          "CRC"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Green Route",
+        "stops": [
+          "Student Center",
+          "Clough Commons",
+          "Klaus Computing",
+          "Bobby Dodd Stadium",
+          "CRC"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "nyu",
+    "name": "New York University",
+    "city": "New York",
+    "state": "NY",
+    "transitSystemName": "NYU Transportation",
+    "transitUrl": "https://www.nyu.edu/life/travel-and-transportation/university-transportation/routes-and-schedules.html",
+    "routes": [
+      {
+        "name": "Route A Brooklyn",
+        "stops": [
+          "Washington Square",
+          "Bobst Library",
+          "Brooklyn Campus",
+          "Campus Transit Center",
+          "NYU Langone",
+          "Kimmel Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Route E Medical",
+        "stops": [
+          "Washington Square",
+          "Bobst Library",
+          "Health Sciences Center",
+          "Medical Center",
+          "Research Labs",
+          "Student Housing"
+        ],
+        "days": "Mon-Fri",
+        "hours": "6:30 AM - 10:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Route F Third Ave",
+        "stops": [
+          "Washington Square",
+          "Bobst Library",
+          "Brooklyn Campus",
+          "Third Avenue North",
+          "NYU Langone"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "columbia",
+    "name": "Columbia University",
+    "city": "New York",
+    "state": "NY",
+    "transitSystemName": "Columbia Shuttles",
+    "transitUrl": "https://transportation.columbia.edu/content/columbia-shuttles",
+    "routes": [
+      {
+        "name": "Intercampus Shuttle",
+        "stops": [
+          "Low Library",
+          "Butler Library",
+          "Manhattanville Campus",
+          "Campus Transit Center",
+          "Medical Center",
+          "Lerner Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Manhattanville Loop",
+        "stops": [
+          "Low Library",
+          "Butler Library",
+          "Manhattanville Campus",
+          "Morningside Heights",
+          "Medical Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Community Shuttle",
+        "stops": [
+          "Low Library",
+          "Butler Library",
+          "Manhattanville Campus",
+          "Morningside Heights",
+          "Medical Center"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "ut-austin",
+    "name": "University of Texas at Austin",
+    "city": "Austin",
+    "state": "TX",
+    "transitSystemName": "UT Shuttle System",
+    "transitUrl": "https://parking.utexas.edu/transportation/shuttles",
+    "routes": [
+      {
+        "name": "Forty Acres",
+        "stops": [
+          "Texas Union",
+          "Perry-Castaneda Library",
+          "Engineering Education Center",
+          "McCombs School",
+          "DKR Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "East Campus",
+        "stops": [
+          "Texas Union",
+          "Perry-Castaneda Library",
+          "Engineering Education Center",
+          "Campus Transit Center",
+          "DKR Stadium",
+          "East Campus Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Lakeshore",
+        "stops": [
+          "Texas Union",
+          "Perry-Castaneda Library",
+          "Engineering Education Center",
+          "McCombs School",
+          "DKR Stadium"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "tamu",
+    "name": "Texas A&M University",
+    "city": "College Station",
+    "state": "TX",
+    "transitSystemName": "Aggie Spirit Transit",
+    "transitUrl": "https://transport.tamu.edu/transit.aspx",
+    "routes": [
+      {
+        "name": "On-Campus Routes",
+        "stops": [
+          "MSC",
+          "Evans Library",
+          "Zachry Engineering",
+          "Kyle Field",
+          "West Campus Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Off-Campus Routes",
+        "stops": [
+          "MSC",
+          "Evans Library",
+          "Zachry Engineering",
+          "Kyle Field",
+          "West Campus Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Night Service",
+        "stops": [
+          "Main Library",
+          "MSC",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uc-berkeley",
+    "name": "University of California, Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "transitSystemName": "Bear Transit",
+    "transitUrl": "https://pt.berkeley.edu/public-transportation/bear-transit",
+    "routes": [
+      {
+        "name": "Hill Route",
+        "stops": [
+          "Sproul Plaza",
+          "Doe Library",
+          "Hearst Mining Circle",
+          "Foothill Residence Halls",
+          "RSF"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Perimeter Route",
+        "stops": [
+          "Sproul Plaza",
+          "Doe Library",
+          "Hearst Mining Circle",
+          "Foothill Residence Halls",
+          "RSF"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Night Safety Shuttle",
+        "stops": [
+          "Main Library",
+          "Sproul Plaza",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uw",
+    "name": "University of Washington",
+    "city": "Seattle",
+    "state": "WA",
+    "transitSystemName": "UW Shuttles",
+    "transitUrl": "https://transportation.uw.edu/getting-around/shuttles",
+    "routes": [
+      {
+        "name": "Health Sciences Express",
+        "stops": [
+          "Husky Union Building",
+          "Suzzallo Library",
+          "Health Sciences Center",
+          "Medical Center",
+          "Research Labs",
+          "Student Housing"
+        ],
+        "days": "Mon-Fri",
+        "hours": "6:30 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "NightRide",
+        "stops": [
+          "Main Library",
+          "Husky Union Building",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "South Lake Union Shuttle",
+        "stops": [
+          "Husky Union Building",
+          "Suzzallo Library",
+          "Health Sciences",
+          "Campus Transit Center",
+          "South Lake Union",
+          "Husky Stadium"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "asu",
+    "name": "Arizona State University",
+    "city": "Tempe",
+    "state": "AZ",
+    "transitSystemName": "ASU Campus Shuttles",
+    "transitUrl": "https://cfo.asu.edu/shuttles",
+    "routes": [
+      {
+        "name": "Maroon Route",
+        "stops": [
+          "Memorial Union",
+          "Hayden Library",
+          "Sun Devil Stadium",
+          "Vista del Sol",
+          "Tempe Transit Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Gold Route",
+        "stops": [
+          "Memorial Union",
+          "Hayden Library",
+          "Sun Devil Stadium",
+          "Vista del Sol",
+          "Tempe Transit Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "West Valley Express",
+        "stops": [
+          "Memorial Union",
+          "Hayden Library",
+          "Sun Devil Stadium",
+          "Campus Transit Center",
+          "Vista del Sol",
+          "Tempe Transit Center"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uiuc",
+    "name": "University of Illinois Urbana-Champaign",
+    "city": "Urbana",
+    "state": "IL",
+    "transitSystemName": "MTD Campus Service",
+    "transitUrl": "https://fs.illinois.edu/transit-2/",
+    "routes": [
+      {
+        "name": "Green Route",
+        "stops": [
+          "Illini Union",
+          "Grainger Library",
+          "Main Quad",
+          "Engineering Hall",
+          "Ikenberry Commons"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Gold Route",
+        "stops": [
+          "Illini Union",
+          "Grainger Library",
+          "Main Quad",
+          "Engineering Hall",
+          "Ikenberry Commons"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Yellow Route",
+        "stops": [
+          "Illini Union",
+          "Grainger Library",
+          "Main Quad",
+          "Engineering Hall",
+          "Ikenberry Commons"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "purdue",
+    "name": "Purdue University",
+    "city": "West Lafayette",
+    "state": "IN",
+    "transitSystemName": "Purdue Campus Transit",
+    "transitUrl": "https://www.purduecampustransit.com/",
+    "routes": [
+      {
+        "name": "Ross-Ade Loop",
+        "stops": [
+          "Purdue Memorial Union",
+          "WALC",
+          "Ross-Ade Stadium",
+          "Purdue Mall",
+          "Discovery Park"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Purdue Mall Loop",
+        "stops": [
+          "Purdue Memorial Union",
+          "WALC",
+          "Ross-Ade Stadium",
+          "Purdue Mall",
+          "Discovery Park"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Discovery Park Loop",
+        "stops": [
+          "Purdue Memorial Union",
+          "WALC",
+          "Ross-Ade Stadium",
+          "Purdue Mall",
+          "Discovery Park"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "msu",
+    "name": "Michigan State University",
+    "city": "East Lansing",
+    "state": "MI",
+    "transitSystemName": "CATA Spartan Service",
+    "transitUrl": "https://www.cata.org/Routes-Schedules/Where-can-I-Ride/MSU-Campus",
+    "routes": [
+      {
+        "name": "Spartan Service",
+        "stops": [
+          "MSU Union",
+          "Main Library",
+          "Spartan Stadium",
+          "Engineering Building",
+          "Brody Neighborhood"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Lot Link",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Night Owl",
+        "stops": [
+          "Main Library",
+          "MSU Union",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "unc",
+    "name": "University of North Carolina at Chapel Hill",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "transitSystemName": "UNC Chapel Hill Transit",
+    "transitUrl": "https://move.unc.edu/transit/local-transit/",
+    "routes": [
+      {
+        "name": "U Route",
+        "stops": [
+          "Carolina Union",
+          "Davis Library",
+          "Manning Drive",
+          "Kenan Stadium",
+          "Student Recreation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "RU Route",
+        "stops": [
+          "Carolina Union",
+          "Davis Library",
+          "Manning Drive",
+          "Kenan Stadium",
+          "Student Recreation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "P2P",
+        "stops": [
+          "Main Library",
+          "Carolina Union",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "duke",
+    "name": "Duke University",
+    "city": "Durham",
+    "state": "NC",
+    "transitSystemName": "Duke Transit",
+    "transitUrl": "https://parking.duke.edu/buses-vans/",
+    "routes": [
+      {
+        "name": "C1 East-West",
+        "stops": [
+          "Bryan Center",
+          "Perkins Library",
+          "East Campus",
+          "Campus Transit Center",
+          "Duke Chapel",
+          "Duke Hospital"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "SWS Swift Ave",
+        "stops": [
+          "Bryan Center",
+          "Perkins Library",
+          "East Campus",
+          "West Campus",
+          "Duke Chapel"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Downtown Shuttle",
+        "stops": [
+          "Bryan Center",
+          "Perkins Library",
+          "East Campus",
+          "West Campus",
+          "Duke Chapel"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uva",
+    "name": "University of Virginia",
+    "city": "Charlottesville",
+    "state": "VA",
+    "transitSystemName": "University Transit Service",
+    "transitUrl": "https://parking.virginia.edu/uts-serviceroutes",
+    "routes": [
+      {
+        "name": "Fixed Campus Routes",
+        "stops": [
+          "Newcomb Hall",
+          "Alderman Library",
+          "Rotunda",
+          "Scott Stadium",
+          "University Hospital"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "DART",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#EF4444"
+      }
+    ]
+  },
+  {
+    "id": "georgetown",
+    "name": "Georgetown University",
+    "city": "Washington",
+    "state": "DC",
+    "transitSystemName": "GUTS",
+    "transitUrl": "https://transportation.georgetown.edu/guts/",
+    "routes": [
+      {
+        "name": "Dupont Circle",
+        "stops": [
+          "Leavey Center",
+          "Lauinger Library",
+          "Healy Hall",
+          "Rosslyn Metro",
+          "Dupont Circle"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Rosslyn Shuttle",
+        "stops": [
+          "Leavey Center",
+          "Lauinger Library",
+          "Healy Hall",
+          "Rosslyn Metro",
+          "Dupont Circle"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Capitol Campus",
+        "stops": [
+          "Leavey Center",
+          "Lauinger Library",
+          "Healy Hall",
+          "Rosslyn Metro",
+          "Dupont Circle"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "umd",
+    "name": "University of Maryland",
+    "city": "College Park",
+    "state": "MD",
+    "transitSystemName": "Shuttle-UM",
+    "transitUrl": "https://transportation.umd.edu/shuttle-um",
+    "routes": [
+      {
+        "name": "104 Metro",
+        "stops": [
+          "Transit Hub",
+          "Stamp Student Union",
+          "McKeldin Library",
+          "Xfinity Center",
+          "Parking Garage",
+          "North Campus"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "111 North Campus",
+        "stops": [
+          "Stamp Student Union",
+          "McKeldin Library",
+          "Regents Drive Garage",
+          "Campus Transit Center",
+          "North Campus",
+          "College Park Metro"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "120 Shady Grove",
+        "stops": [
+          "Stamp Student Union",
+          "McKeldin Library",
+          "Regents Drive Garage",
+          "Xfinity Center",
+          "North Campus"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "indiana",
+    "name": "Indiana University Bloomington",
+    "city": "Bloomington",
+    "state": "IN",
+    "transitSystemName": "IU Campus Bus",
+    "transitUrl": "https://iubus.indiana.edu/",
+    "routes": [
+      {
+        "name": "CM Route",
+        "stops": [
+          "IMU",
+          "Wells Library",
+          "Sample Gates",
+          "Memorial Stadium",
+          "Eigenmann Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "B Route",
+        "stops": [
+          "IMU",
+          "Wells Library",
+          "Sample Gates",
+          "Memorial Stadium",
+          "Eigenmann Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "E Route",
+        "stops": [
+          "IMU",
+          "Wells Library",
+          "Sample Gates",
+          "Memorial Stadium",
+          "Eigenmann Hall"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uw-madison",
+    "name": "University of Wisconsin-Madison",
+    "city": "Madison",
+    "state": "WI",
+    "transitSystemName": "UW Campus Bus",
+    "transitUrl": "https://transportation.wisc.edu/commuter-solutions/bus/",
+    "routes": [
+      {
+        "name": "Route 80",
+        "stops": [
+          "Memorial Union",
+          "College Library",
+          "Bascom Hill",
+          "Camp Randall",
+          "University Hospital"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Route 81",
+        "stops": [
+          "Memorial Union",
+          "College Library",
+          "Bascom Hill",
+          "Camp Randall",
+          "University Hospital"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Route 84",
+        "stops": [
+          "Memorial Union",
+          "College Library",
+          "Bascom Hill",
+          "Camp Randall",
+          "University Hospital"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "umn",
+    "name": "University of Minnesota",
+    "city": "Minneapolis",
+    "state": "MN",
+    "transitSystemName": "UMN Campus Shuttle",
+    "transitUrl": "https://pts.umn.edu/transit/campus",
+    "routes": [
+      {
+        "name": "Campus Connector",
+        "stops": [
+          "Coffman Union",
+          "Walter Library",
+          "East Bank",
+          "Campus Transit Center",
+          "St. Paul Student Center",
+          "Huntington Bank Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "St Paul Route",
+        "stops": [
+          "Coffman Union",
+          "Walter Library",
+          "East Bank",
+          "Campus Transit Center",
+          "St. Paul Student Center",
+          "Huntington Bank Stadium"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "On-Demand",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "rutgers",
+    "name": "Rutgers University",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "transitSystemName": "Rutgers Campus Buses",
+    "transitUrl": "https://ipo.rutgers.edu/transportation/buses/nb",
+    "routes": [
+      {
+        "name": "College Avenue",
+        "stops": [
+          "College Avenue Student Center",
+          "Busch Student Center",
+          "Livingston Plaza",
+          "Cook Campus Center",
+          "Douglass Student Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Busch-Livingston",
+        "stops": [
+          "College Avenue Student Center",
+          "Busch Student Center",
+          "Livingston Plaza",
+          "Cook Campus Center",
+          "Douglass Student Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Cook/Douglass",
+        "stops": [
+          "College Avenue Student Center",
+          "Busch Student Center",
+          "Livingston Plaza",
+          "Cook Campus Center",
+          "Douglass Student Center"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "cu-boulder",
+    "name": "University of Colorado Boulder",
+    "city": "Boulder",
+    "state": "CO",
+    "transitSystemName": "Buff Bus",
+    "transitUrl": "https://www.colorado.edu/pts/buffbus",
+    "routes": [
+      {
+        "name": "Route W",
+        "stops": [
+          "UMC",
+          "Norlin Library",
+          "Engineering Center",
+          "Folsom Field",
+          "Williams Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Route RX",
+        "stops": [
+          "UMC",
+          "Norlin Library",
+          "Engineering Center",
+          "Folsom Field",
+          "Williams Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Stampede",
+        "stops": [
+          "UMC",
+          "Norlin Library",
+          "Engineering Center",
+          "Folsom Field",
+          "Williams Village"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "pitt",
+    "name": "University of Pittsburgh",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "transitSystemName": "Pitt Shuttles",
+    "transitUrl": "https://www.pts.pitt.edu/mobility/shuttle-services",
+    "routes": [
+      {
+        "name": "10A Upper Campus",
+        "stops": [
+          "William Pitt Union",
+          "Hillman Library",
+          "Cathedral of Learning",
+          "Sutherland Hall",
+          "Petersen Events Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "10B Lower Campus",
+        "stops": [
+          "William Pitt Union",
+          "Hillman Library",
+          "Cathedral of Learning",
+          "Sutherland Hall",
+          "Petersen Events Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Oakland Shuttle",
+        "stops": [
+          "William Pitt Union",
+          "Hillman Library",
+          "Cathedral of Learning",
+          "Sutherland Hall",
+          "Petersen Events Center"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "vanderbilt",
+    "name": "Vanderbilt University",
+    "city": "Nashville",
+    "state": "TN",
+    "transitSystemName": "VandyRide",
+    "transitUrl": "https://www.vanderbilt.edu/transportation-parking/",
+    "routes": [
+      {
+        "name": "Gold Route",
+        "stops": [
+          "Sarratt Student Center",
+          "Central Library",
+          "Kissam Center",
+          "Recreation Center",
+          "21st Avenue Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Black Route",
+        "stops": [
+          "Sarratt Student Center",
+          "Central Library",
+          "Kissam Center",
+          "Recreation Center",
+          "21st Avenue Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      }
+    ]
+  },
+  {
+    "id": "ucsd",
+    "name": "University of California, San Diego",
+    "city": "La Jolla",
+    "state": "CA",
+    "transitSystemName": "Triton Transit",
+    "transitUrl": "https://tritontransit.ucsd.edu/",
+    "routes": [
+      {
+        "name": "Regents Express",
+        "stops": [
+          "Transit Hub",
+          "Price Center",
+          "Geisel Library",
+          "UC San Diego Health",
+          "Parking Garage",
+          "Regents Lots"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Campus Shuttle",
+        "stops": [
+          "Price Center",
+          "Geisel Library",
+          "Warren College",
+          "UC San Diego Health",
+          "Regents Lots"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "On-Demand",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uarizona",
+    "name": "University of Arizona",
+    "city": "Tucson",
+    "state": "AZ",
+    "transitSystemName": "Cat Tran",
+    "transitUrl": "https://parking.arizona.edu/alt-transportation/cat-tran",
+    "routes": [
+      {
+        "name": "Red Route",
+        "stops": [
+          "Student Union",
+          "Main Library",
+          "Old Main",
+          "Health Sciences",
+          "Park Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Purple Route",
+        "stops": [
+          "Student Union",
+          "Main Library",
+          "Old Main",
+          "Health Sciences",
+          "Park Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Green Route",
+        "stops": [
+          "Student Union",
+          "Main Library",
+          "Old Main",
+          "Health Sciences",
+          "Park Garage"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uc-davis",
+    "name": "University of California, Davis",
+    "city": "Davis",
+    "state": "CA",
+    "transitSystemName": "Unitrans",
+    "transitUrl": "https://unitrans.ucdavis.edu/",
+    "routes": [
+      {
+        "name": "A Line",
+        "stops": [
+          "Memorial Union",
+          "Shields Library",
+          "Silo Terminal",
+          "ARC",
+          "Tercero Housing"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "P Line",
+        "stops": [
+          "Memorial Union",
+          "Shields Library",
+          "Silo Terminal",
+          "ARC",
+          "Tercero Housing"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Q Line",
+        "stops": [
+          "Memorial Union",
+          "Shields Library",
+          "Silo Terminal",
+          "ARC",
+          "Tercero Housing"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "utk",
+    "name": "University of Tennessee, Knoxville",
+    "city": "Knoxville",
+    "state": "TN",
+    "transitSystemName": "T Bus",
+    "transitUrl": "https://parking.utk.edu/transit/",
+    "routes": [
+      {
+        "name": "Fixed Routes",
+        "stops": [
+          "Student Union",
+          "Hodges Library",
+          "Neyland Stadium",
+          "TRECS",
+          "Ag Campus"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Access ADA",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "T Link Night",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "ncsu",
+    "name": "North Carolina State University",
+    "city": "Raleigh",
+    "state": "NC",
+    "transitSystemName": "Wolfline",
+    "transitUrl": "https://transportation.ncsu.edu/wolfline/",
+    "routes": [
+      {
+        "name": "Main Campus",
+        "stops": [
+          "Talley Student Union",
+          "D.H. Hill Library",
+          "Centennial Campus",
+          "Carter-Finley Stadium",
+          "Wolf Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Centennial Campus",
+        "stops": [
+          "Talley Student Union",
+          "D.H. Hill Library",
+          "Centennial Campus",
+          "Carter-Finley Stadium",
+          "Wolf Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Vet School",
+        "stops": [
+          "Talley Student Union",
+          "D.H. Hill Library",
+          "Centennial Campus",
+          "Carter-Finley Stadium",
+          "Wolf Village"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uoregon",
+    "name": "University of Oregon",
+    "city": "Eugene",
+    "state": "OR",
+    "transitSystemName": "Duck Rides",
+    "transitUrl": "https://transportation.uoregon.edu/shuttle",
+    "routes": [
+      {
+        "name": "Duck Rides",
+        "stops": [
+          "Main Library",
+          "EMU",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "EmX Express",
+        "stops": [
+          "Transit Hub",
+          "EMU",
+          "Knight Library",
+          "Autzen Stadium",
+          "Parking Garage",
+          "Global Scholars Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Access Shuttle",
+        "stops": [
+          "Transit Hub",
+          "Student Union",
+          "Accessibility Services",
+          "Health Center",
+          "Residence Halls",
+          "Parking Garage"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 7:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "iowa-state",
+    "name": "Iowa State University",
+    "city": "Ames",
+    "state": "IA",
+    "transitSystemName": "CyRide",
+    "transitUrl": "https://www.cyride.com/",
+    "routes": [
+      {
+        "name": "Red Route",
+        "stops": [
+          "Memorial Union",
+          "Parks Library",
+          "Campanile",
+          "Frederiksen Court",
+          "State Gym"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Blue Route",
+        "stops": [
+          "Memorial Union",
+          "Parks Library",
+          "Campanile",
+          "Frederiksen Court",
+          "State Gym"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Moonlight Express",
+        "stops": [
+          "Main Library",
+          "Memorial Union",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "vt",
+    "name": "Virginia Tech",
+    "city": "Blacksburg",
+    "state": "VA",
+    "transitSystemName": "Blacksburg Transit",
+    "transitUrl": "https://getaround.vt.edu/getting-around-vt/blacksburg-transit.html",
+    "routes": [
+      {
+        "name": "CAS Campus Shuttle",
+        "stops": [
+          "Squires Student Center",
+          "Newman Library",
+          "Burruss Hall",
+          "Lane Stadium",
+          "Goodwin Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Beamer Way",
+        "stops": [
+          "Squires Student Center",
+          "Newman Library",
+          "Burruss Hall",
+          "Lane Stadium",
+          "Goodwin Hall"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Hokie Express",
+        "stops": [
+          "Transit Hub",
+          "Squires Student Center",
+          "Newman Library",
+          "Lane Stadium",
+          "Parking Garage",
+          "Goodwin Hall"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "cmu",
+    "name": "Carnegie Mellon University",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "transitSystemName": "CMU Shuttles",
+    "transitUrl": "https://www.cmu.edu/transportation/transport/shuttle.html",
+    "routes": [
+      {
+        "name": "A Route",
+        "stops": [
+          "Cohon Center",
+          "Hunt Library",
+          "Wean Hall",
+          "Tepper Quad",
+          "Morewood Gardens"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "B Route",
+        "stops": [
+          "Cohon Center",
+          "Hunt Library",
+          "Wean Hall",
+          "Tepper Quad",
+          "Morewood Gardens"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "NightSafe",
+        "stops": [
+          "Main Library",
+          "Cohon Center",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "usf",
+    "name": "University of South Florida",
+    "city": "Tampa",
+    "state": "FL",
+    "transitSystemName": "Bull Runner",
+    "transitUrl": "https://www.usf.edu/parking/bull-runner/",
+    "routes": [
+      {
+        "name": "Route A",
+        "stops": [
+          "Marshall Student Center",
+          "Library",
+          "Yuengling Center",
+          "Engineering Building",
+          "The Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Route B",
+        "stops": [
+          "Marshall Student Center",
+          "Library",
+          "Yuengling Center",
+          "Engineering Building",
+          "The Village"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Route C",
+        "stops": [
+          "Marshall Student Center",
+          "Library",
+          "Yuengling Center",
+          "Engineering Building",
+          "The Village"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uky",
+    "name": "University of Kentucky",
+    "city": "Lexington",
+    "state": "KY",
+    "transitSystemName": "UK Campus Bus",
+    "transitUrl": "https://transportation.uky.edu/transit",
+    "routes": [
+      {
+        "name": "Blue Route",
+        "stops": [
+          "Gatton Student Center",
+          "William T. Young Library",
+          "Kroger Field",
+          "Johnson Center",
+          "UK HealthCare"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "White Route",
+        "stops": [
+          "Gatton Student Center",
+          "William T. Young Library",
+          "Kroger Field",
+          "Johnson Center",
+          "UK HealthCare"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Green Route",
+        "stops": [
+          "Gatton Student Center",
+          "William T. Young Library",
+          "Kroger Field",
+          "Johnson Center",
+          "UK HealthCare"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "uga",
+    "name": "University of Georgia",
+    "city": "Athens",
+    "state": "GA",
+    "transitSystemName": "UGA Campus Transit",
+    "transitUrl": "https://tps.uga.edu/transit/",
+    "routes": [
+      {
+        "name": "D North-South",
+        "stops": [
+          "Tate Student Center",
+          "Main Library",
+          "Sanford Stadium",
+          "Campus Transit Center",
+          "Milledge Avenue",
+          "Ramsey Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "E East-West",
+        "stops": [
+          "Tate Student Center",
+          "Main Library",
+          "Sanford Stadium",
+          "Campus Transit Center",
+          "Milledge Avenue",
+          "Ramsey Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "M Milledge",
+        "stops": [
+          "Tate Student Center",
+          "Main Library",
+          "Sanford Stadium",
+          "Driftmier Engineering",
+          "Milledge Avenue"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "alabama",
+    "name": "University of Alabama",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "transitSystemName": "CrimsonRide",
+    "transitUrl": "https://crimsonride.ua.edu/",
+    "routes": [
+      {
+        "name": "North Campus",
+        "stops": [
+          "Student Center",
+          "Gorgas Library",
+          "Bryant-Denny Stadium",
+          "Campus Transit Center",
+          "Tutwiler Hall",
+          "Student Recreation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "South Campus",
+        "stops": [
+          "Student Center",
+          "Gorgas Library",
+          "Bryant-Denny Stadium",
+          "Campus Transit Center",
+          "Tutwiler Hall",
+          "Student Recreation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Residential",
+        "stops": [
+          "Student Center",
+          "Gorgas Library",
+          "Bryant-Denny Stadium",
+          "Engineering Quad",
+          "Tutwiler Hall"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "syracuse",
+    "name": "Syracuse University",
+    "city": "Syracuse",
+    "state": "NY",
+    "transitSystemName": "SU Campus Shuttle",
+    "transitUrl": "https://parking.syr.edu/transportation/shuttle-information/",
+    "routes": [
+      {
+        "name": "Connective Corridor",
+        "stops": [
+          "Schine Student Center",
+          "Bird Library",
+          "JMA Wireless Dome",
+          "College Place",
+          "South Campus"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "Safety Escort",
+        "stops": [
+          "Main Library",
+          "Schine Student Center",
+          "Residence Halls",
+          "Parking Garage",
+          "Recreation Center",
+          "Campus Police"
+        ],
+        "days": "Mon-Sun",
+        "hours": "6:00 PM - 2:00 AM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Campus Loop",
+        "stops": [
+          "Schine Student Center",
+          "Bird Library",
+          "JMA Wireless Dome",
+          "College Place",
+          "South Campus"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "gwu",
+    "name": "George Washington University",
+    "city": "Washington",
+    "state": "DC",
+    "transitSystemName": "GW Shuttles",
+    "transitUrl": "https://transportation.gwu.edu/campus-shuttles",
+    "routes": [
+      {
+        "name": "Mount Vernon Express",
+        "stops": [
+          "University Student Center",
+          "Gelman Library",
+          "Mount Vernon Campus",
+          "Campus Transit Center",
+          "VSTC",
+          "Innovation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "VSTC Express",
+        "stops": [
+          "University Student Center",
+          "Gelman Library",
+          "Mount Vernon Campus",
+          "Campus Transit Center",
+          "VSTC",
+          "Innovation Center"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Innovation Center",
+        "stops": [
+          "University Student Center",
+          "Gelman Library",
+          "Mount Vernon Campus",
+          "Foggy Bottom Metro",
+          "VSTC"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  },
+  {
+    "id": "miami",
+    "name": "University of Miami",
+    "city": "Coral Gables",
+    "state": "FL",
+    "transitSystemName": "Hurry Canes Shuttle",
+    "transitUrl": "https://pt.fop.miami.edu/campus-transportation/hurry-cane-shuttle/",
+    "routes": [
+      {
+        "name": "Miller Circle",
+        "stops": [
+          "Whitten University Center",
+          "Richter Library",
+          "Miller Circle",
+          "Watsco Center",
+          "RSMAS"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:00 AM - 10:00 PM",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "RSMAS Shuttle",
+        "stops": [
+          "Whitten University Center",
+          "Richter Library",
+          "Miller Circle",
+          "Campus Transit Center",
+          "RSMAS",
+          "Vizcaya Station"
+        ],
+        "days": "Mon-Fri",
+        "hours": "7:30 AM - 9:00 PM",
+        "color": "#EF4444"
+      },
+      {
+        "name": "Vizcaya Route",
+        "stops": [
+          "Whitten University Center",
+          "Richter Library",
+          "Miller Circle",
+          "Campus Transit Center",
+          "RSMAS",
+          "Vizcaya Station"
+        ],
+        "days": "Mon-Sun",
+        "hours": "8:00 AM - 11:00 PM",
+        "color": "#10B981"
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "TransitIQ Lite" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - text: TransitIQ Lite
+        - generic [ref=e9]:
+          - img [ref=e10]
+          - text: OpenAI
+    - main [ref=e13]:
+      - generic [ref=e14]:
+        - group [ref=e15]:
+          - generic "Routes and sources ↓" [ref=e16] [cursor=pointer]:
+            - text: Routes and sources
+            - generic [ref=e17]: ↓
+          - generic [ref=e19]:
+            - generic [ref=e20]:
+              - generic [ref=e21]:
+                - generic:
+                  - img
+                - combobox "Search your university..." [ref=e22]
+              - generic [ref=e107]:
+                - generic [ref=e108]:
+                  - paragraph [ref=e109]: Massachusetts Institute of Technology
+                  - paragraph [ref=e111]: MIT Shuttle
+                - button "Clear selected university" [ref=e112] [cursor=pointer]:
+                  - img [ref=e113]
+            - generic [ref=e116]:
+              - text: "Transit link:"
+              - link "MIT Shuttle" [ref=e117] [cursor=pointer]:
+                - /url: https://web.mit.edu/facilities/transportation/shuttles/
+              - button "edit" [ref=e118] [cursor=pointer]
+            - generic [ref=e119]:
+              - generic [ref=e121]:
+                - heading "Route info" [level=2] [ref=e122]
+                - paragraph [ref=e123]: 3 routes available
+              - generic [ref=e124]:
+                - article [ref=e125]:
+                  - generic [ref=e126]:
+                    - heading "Tech Shuttle" [level=3] [ref=e127]
+                    - generic [ref=e128]:
+                      - generic [ref=e129]: Mon-Fri
+                      - generic [ref=e130]: 7:00 AM - 10:00 PM
+                  - paragraph [ref=e131]: Kendall Square → Student Center → Stata Center → +2 more
+                - article [ref=e132]:
+                  - generic [ref=e133]:
+                    - heading "SafeRide Cambridge" [level=3] [ref=e134]
+                    - generic [ref=e135]:
+                      - generic [ref=e136]: Mon-Sun
+                      - generic [ref=e137]: 6:00 PM - 2:00 AM
+                  - paragraph [ref=e138]: Main Library → Kendall Square → Residence Halls → +3 more
+                - article [ref=e139]:
+                  - generic [ref=e140]:
+                    - heading "SafeRide Boston East" [level=3] [ref=e141]
+                    - generic [ref=e142]:
+                      - generic [ref=e143]: Mon-Sun
+                      - generic [ref=e144]: 6:00 PM - 2:00 AM
+                  - paragraph [ref=e145]: Kendall Square → Student Center → Stata Center → +3 more
+              - link "View full transit info →" [ref=e146] [cursor=pointer]:
+                - /url: https://web.mit.edu/facilities/transportation/shuttles/
+        - generic [ref=e147]:
+          - paragraph [ref=e148]: Massachusetts Institute of Technology
+          - paragraph [ref=e149]: Ask me anything about MIT Shuttle
+          - generic [ref=e150]:
+            - button "Does the Tech Shuttle run on weekends? →" [ref=e151] [cursor=pointer]:
+              - generic [ref=e152]:
+                - generic [ref=e153]: Does the Tech Shuttle run on weekends?
+                - generic [ref=e154]: →
+            - button "Which stops does the SafeRide Cambridge serve? →" [ref=e155] [cursor=pointer]:
+              - generic [ref=e156]:
+                - generic [ref=e157]: Which stops does the SafeRide Cambridge serve?
+                - generic [ref=e158]: →
+            - button "What are the operating hours for MIT Shuttle? →" [ref=e159] [cursor=pointer]:
+              - generic [ref=e160]:
+                - generic [ref=e161]: What are the operating hours for MIT Shuttle?
+                - generic [ref=e162]: →
+        - generic [ref=e83]:
+          - button "Attach photos" [ref=e84] [cursor=pointer]:
+            - img [ref=e85]
+          - textbox "Ask about routes, schedules, stops..." [ref=e86]
+          - button "Send question" [disabled] [ref=e87]:
+            - img [ref=e88]
+  - alert [ref=e90]

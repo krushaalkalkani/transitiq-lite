@@ -1,0 +1,168 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "Back to home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - text: Back to home
+      - generic [ref=e9]:
+        - heading "Privacy Policy" [level=1] [ref=e10]
+        - paragraph [ref=e11]: "Effective Date: April 17, 2026"
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - heading "Introduction" [level=2] [ref=e17]
+        - paragraph [ref=e19]: TransitIQ Lite is an AI-powered campus transit assistant owned by Krushal Kalkani in Boca Raton, Florida, USA. This policy explains how we handle your information when you use TransitIQ Lite.
+      - generic [ref=e20]:
+        - heading "Information We Collect" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: We do not require user accounts or login. When you use the app, we process uploaded transit images, your typed questions, and your selected university.
+          - list [ref=e24]:
+            - listitem [ref=e25]: Uploaded transit images are sent to OpenAI's API for analysis and are not stored on our servers.
+            - listitem [ref=e26]: Typed questions are sent to OpenAI's API for processing and are not stored by TransitIQ Lite.
+            - listitem [ref=e27]: Your selected university is used only during your session to provide relevant transit context.
+          - paragraph [ref=e28]: We do not store any images, questions, or answers after your session ends.
+      - generic [ref=e29]:
+        - heading "Third-Party Services" [level=2] [ref=e30]
+        - generic [ref=e31]:
+          - paragraph [ref=e32]:
+            - text: We use OpenAI's GPT-4o API to analyze images and generate answers. Your uploaded images and questions are sent to OpenAI for processing. Please review OpenAI's privacy policy at
+            - link "openai.com/privacy" [ref=e33] [cursor=pointer]:
+              - /url: https://openai.com/privacy
+            - text: .
+          - paragraph [ref=e34]: We may use Vercel Analytics in the future to collect anonymous usage data such as page views and device type. No personally identifiable information would be collected.
+      - generic [ref=e35]:
+        - heading "Cookies" [level=2] [ref=e36]
+        - paragraph [ref=e38]: We do not currently use cookies or tracking technologies. If analytics are added in the future, this policy will be updated.
+      - generic [ref=e39]:
+        - heading "Data Retention" [level=2] [ref=e40]
+        - paragraph [ref=e42]: We do not store your data. All processing happens in real time during your session. Once you close the app, your data is gone.
+      - generic [ref=e43]:
+        - heading "Children's Privacy" [level=2] [ref=e44]
+        - paragraph [ref=e46]: TransitIQ Lite is designed for university students. We do not knowingly collect information from children under 13.
+      - generic [ref=e47]:
+        - heading "Your Rights" [level=2] [ref=e48]
+        - paragraph [ref=e50]: Since we do not store personal data, there is nothing to delete or export. If you have questions, contact us.
+      - generic [ref=e51]:
+        - heading "Changes to This Policy" [level=2] [ref=e52]
+        - paragraph [ref=e54]: We may update this policy. Changes will be posted on this page with a new effective date.
+      - generic [ref=e55]:
+        - heading "Contact" [level=2] [ref=e56]
+        - paragraph [ref=e58]:
+          - text: Krushal Kalkani -
+          - link "krushal.kalkani@icloud.com" [ref=e59] [cursor=pointer]:
+            - /url: mailto:krushal.kalkani@icloud.com
+    - generic [ref=e62]:
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]: FAU
+          - generic [ref=e67]: •
+        - generic [ref=e68]:
+          - generic [ref=e69]: UCLA
+          - generic [ref=e70]: •
+        - generic [ref=e71]:
+          - generic [ref=e72]: MIT
+          - generic [ref=e73]: •
+        - generic [ref=e74]:
+          - generic [ref=e75]: Stanford
+          - generic [ref=e76]: •
+        - generic [ref=e77]:
+          - generic [ref=e78]: Harvard
+          - generic [ref=e79]: •
+        - generic [ref=e80]:
+          - generic [ref=e81]: Ohio State
+          - generic [ref=e82]: •
+        - generic [ref=e83]:
+          - generic [ref=e84]: Michigan
+          - generic [ref=e85]: •
+        - generic [ref=e86]:
+          - generic [ref=e87]: Berkeley
+          - generic [ref=e88]: •
+        - generic [ref=e89]:
+          - generic [ref=e90]: Georgia Tech
+          - generic [ref=e91]: •
+        - generic [ref=e92]:
+          - generic [ref=e93]: NYU
+          - generic [ref=e94]: •
+        - generic [ref=e95]:
+          - generic [ref=e96]: Columbia
+          - generic [ref=e97]: •
+        - generic [ref=e98]:
+          - generic [ref=e99]: UT Austin
+          - generic [ref=e100]: •
+        - generic [ref=e101]:
+          - generic [ref=e102]: Purdue
+          - generic [ref=e103]: •
+        - generic [ref=e104]:
+          - generic [ref=e105]: Duke
+          - generic [ref=e106]: •
+        - generic [ref=e107]:
+          - generic [ref=e108]: Georgetown
+          - generic [ref=e109]: •
+        - generic [ref=e110]:
+          - generic [ref=e111]: FAU
+          - generic [ref=e112]: •
+        - generic [ref=e113]:
+          - generic [ref=e114]: UCLA
+          - generic [ref=e115]: •
+        - generic [ref=e116]:
+          - generic [ref=e117]: MIT
+          - generic [ref=e118]: •
+        - generic [ref=e119]:
+          - generic [ref=e120]: Stanford
+          - generic [ref=e121]: •
+        - generic [ref=e122]:
+          - generic [ref=e123]: Harvard
+          - generic [ref=e124]: •
+        - generic [ref=e125]:
+          - generic [ref=e126]: Ohio State
+          - generic [ref=e127]: •
+        - generic [ref=e128]:
+          - generic [ref=e129]: Michigan
+          - generic [ref=e130]: •
+        - generic [ref=e131]:
+          - generic [ref=e132]: Berkeley
+          - generic [ref=e133]: •
+        - generic [ref=e134]:
+          - generic [ref=e135]: Georgia Tech
+          - generic [ref=e136]: •
+        - generic [ref=e137]:
+          - generic [ref=e138]: NYU
+          - generic [ref=e139]: •
+        - generic [ref=e140]:
+          - generic [ref=e141]: Columbia
+          - generic [ref=e142]: •
+        - generic [ref=e143]:
+          - generic [ref=e144]: UT Austin
+          - generic [ref=e145]: •
+        - generic [ref=e146]:
+          - generic [ref=e147]: Purdue
+          - generic [ref=e148]: •
+        - generic [ref=e149]:
+          - generic [ref=e150]: Duke
+          - generic [ref=e151]: •
+        - generic [ref=e152]:
+          - generic [ref=e153]: Georgetown
+          - generic [ref=e154]: •
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - paragraph [ref=e157]: TransitIQ Lite
+          - paragraph [ref=e158]: Built by Krushal Kalkani
+        - generic [ref=e159]: Codex Creator Challenge 2026
+        - generic [ref=e160]: Powered by OpenAI GPT-4o
+      - navigation "Footer navigation" [ref=e161]:
+        - generic [ref=e162]:
+          - link "Try TransitIQ Lite" [ref=e163] [cursor=pointer]:
+            - /url: /app
+          - link "List My University" [ref=e164] [cursor=pointer]:
+            - /url: /list-university
+          - link "About" [ref=e165] [cursor=pointer]:
+            - /url: /about
+        - generic [ref=e166]:
+          - link "Privacy Policy" [ref=e167] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms of Service" [ref=e168] [cursor=pointer]:
+            - /url: /terms
+          - link "Contact" [ref=e169] [cursor=pointer]:
+            - /url: /contact
+      - generic [ref=e170]: © 2026 Krushal Kalkani. All rights reserved.
+  - alert [ref=e171]

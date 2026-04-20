@@ -25,7 +25,7 @@ const features = [
   {
     title: "AI-Powered Answers",
     description:
-      "GPT-4o reads your image, understands the transit context, and answers your question with structured detail.",
+      "AI reads your image, understands the transit context, and answers your question with structured detail.",
     icon: <SparkleBrainIcon />,
   },
   {
@@ -486,8 +486,8 @@ function StatsBar() {
           suffix="+"
           label="Universities"
         />
-        <CountUpStat icon={<SparkleIcon />} label="AI-Powered by GPT-4o" />
-        <CountUpStat icon={<CodeIcon />} label="Built with OpenAI Codex" />
+        <CountUpStat icon={<SparkleIcon />} label="AI Transit Analysis" />
+        <CountUpStat icon={<CodeIcon />} label="Built for Students" />
       </div>
     </section>
   );

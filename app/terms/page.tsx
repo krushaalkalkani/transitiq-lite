@@ -77,9 +77,9 @@ export default function TermsPage() {
 
         <TermsSection title="Intellectual Property">
           <p>
-            TransitIQ Lite is owned by Krushal Kalkani. The design, code, and
-            branding are protected. University transit data is sourced from
-            publicly available information.
+            TransitIQ Lite and its design, code, and branding are protected.
+            University transit data is sourced from publicly available
+            information.
           </p>
         </TermsSection>
 
@@ -104,10 +104,10 @@ export default function TermsPage() {
           <p>
             Questions about these terms can be sent to{" "}
             <a
-              href="mailto:krushal.kalkani@icloud.com"
+              href="mailto:support@transitiqlite.app"
               className="font-semibold text-fau-blue hover:underline"
             >
-              krushal.kalkani@icloud.com
+              support@transitiqlite.app
             </a>
             .
           </p>

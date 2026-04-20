@@ -35,9 +35,9 @@ export default function PrivacyPage() {
       <div className="space-y-6">
         <PolicySection title="Introduction">
           <p>
-            TransitIQ Lite is an AI-powered campus transit assistant owned by
-            Krushal Kalkani in Boca Raton, Florida, USA. This policy explains
-            how we handle your information when you use TransitIQ Lite.
+            TransitIQ Lite is an AI-powered campus transit assistant. This
+            policy explains how we handle your information when you use
+            TransitIQ Lite.
           </p>
         </PolicySection>
 
@@ -126,12 +126,12 @@ export default function PrivacyPage() {
 
         <PolicySection title="Contact">
           <p>
-            Krushal Kalkani -{" "}
+            Questions about this policy can be sent to{" "}
             <a
-              href="mailto:krushal.kalkani@icloud.com"
+              href="mailto:support@transitiqlite.app"
               className="font-semibold text-fau-blue hover:underline"
             >
-              krushal.kalkani@icloud.com
+              support@transitiqlite.app
             </a>
           </p>
         </PolicySection>

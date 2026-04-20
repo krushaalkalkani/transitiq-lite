@@ -2,7 +2,7 @@
 
 import { FormEvent, useState } from "react";
 
-const emailAddress = "krushal.kalkani@icloud.com";
+const emailAddress = "support@transitiqlite.app";
 
 function CheckIcon() {
   return (
@@ -77,10 +77,10 @@ export function ContactForm() {
         <div className="mt-6 grid gap-4 border-t border-slate-100 pt-6 sm:grid-cols-2">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">
-              Location
+              Support
             </p>
             <p className="mt-2 font-medium text-slate-700">
-              Boca Raton, Florida
+              Online support
             </p>
           </div>
           <div>

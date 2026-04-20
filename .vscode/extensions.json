@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "christian-kohler.path-intellisense",
+    "mikestead.dotenv",
+    "eamodio.gitlens",
+    "vercel.vscode-nextjs"
+  ]
+}
+

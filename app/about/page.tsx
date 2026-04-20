@@ -5,14 +5,14 @@ import { MarketingPageShell } from "@/components/MarketingPageShell";
 
 export const metadata: Metadata = {
   title: "About | TransitIQ Lite",
-  description: "Learn about TransitIQ Lite and the builder behind it.",
+  description: "Learn about TransitIQ Lite.",
 };
 
 const techStack = [
   "Next.js 14",
   "TypeScript",
   "Tailwind CSS",
-  "OpenAI GPT-4o",
+  "AI inference API",
   "Vercel",
 ];
 
@@ -25,31 +25,28 @@ export default function AboutPage() {
             The Story
           </p>
           <p className="mt-4 text-base leading-8 text-slate-600">
-            TransitIQ Lite was built by Krushal Kalkani, a Master&apos;s student
-            in Computer Science at Florida Atlantic University. Every day,
-            thousands of students struggle to understand shuttle schedules -
-            printed signs at bus stops, PDF routes on websites, and temporary
-            notices that are hard to read. TransitIQ Lite solves this with AI.
-            Upload any transit document, ask a question in plain English, and
-            get a clear answer. Built for the OpenAI Codex Creator Challenge
-            2026, TransitIQ Lite started as a solution for FAU students and has
-            grown to support 50+ universities across the United States.
+            TransitIQ Lite was created to make campus transit easier to
+            understand. Every day, students struggle to piece together shuttle
+            schedules from printed signs, PDF routes, website updates, and
+            temporary notices. TransitIQ Lite uses AI to turn those transit
+            documents into clear answers. Upload any transit document, ask a
+            question in plain English, and get a structured response. Built
+            as a student-focused transit tool, TransitIQ Lite now supports 50+
+            universities across the United States.
           </p>
         </section>
 
         <section className="rounded-2xl border border-slate-200/70 bg-white p-6 shadow-lg shadow-slate-200/50 sm:p-8">
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-fau-blue">
-            The Builder
+            The Mission
           </p>
           <h2 className="mt-4 text-2xl font-bold tracking-tight text-slate-950">
-            Krushal Kalkani
+            Clearer transit answers for students
           </h2>
-          <p className="mt-2 text-sm font-semibold text-slate-500">
-            MS Computer Science, Florida Atlantic University, 2026
-          </p>
           <p className="mt-4 text-base leading-8 text-slate-600">
-            Passionate about AI, software engineering, and building products
-            that solve real problems.
+            The goal is to help students understand routes, stops, service
+            hours, and notices without digging through multiple transit
+            documents or university pages.
           </p>
         </section>
 

@@ -804,7 +804,7 @@ export default function TransitAppPage() {
           <div className="flex justify-end">
             <span className="inline-flex min-h-8 items-center gap-1.5 text-xs font-medium text-slate-400">
               <SparkleIcon className="h-3 w-3" />
-              Powered by OpenAI GPT-4o
+              Transit assistant
             </span>
           </div>
         </div>

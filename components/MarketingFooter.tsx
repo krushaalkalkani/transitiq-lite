@@ -59,10 +59,10 @@ export function MarketingFooter() {
         <div className="mx-auto grid max-w-6xl gap-4 px-4 text-center sm:grid-cols-3 sm:px-6 sm:text-left lg:px-8">
           <div>
             <p className="font-bold text-white">TransitIQ Lite</p>
-            <p className="mt-1">Built by Krushal Kalkani</p>
+            <p className="mt-1">Campus transit, simplified.</p>
           </div>
           <div className="sm:text-center">Codex Creator Challenge 2026</div>
-          <div className="sm:text-right">Powered by OpenAI GPT-4o</div>
+          <div className="sm:text-right">Structured transit answers</div>
         </div>
 
         <nav
@@ -94,7 +94,7 @@ export function MarketingFooter() {
         </nav>
 
         <div className="mx-auto mt-6 max-w-6xl border-t border-slate-800 px-4 pt-6 text-center text-xs text-slate-600 sm:px-6 lg:px-8">
-          © 2026 Krushal Kalkani. All rights reserved.
+          © 2026 TransitIQ Lite. All rights reserved.
         </div>
       </div>
     </footer>
